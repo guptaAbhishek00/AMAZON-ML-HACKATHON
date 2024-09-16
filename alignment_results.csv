@@ -1,0 +1,2089 @@
+image_name,entity_name,expected_value,extracted_value
+61I9XdN6OFL.jpg,item_weight,500.0 gram,No match found
+71gSRbyXmoL.jpg,item_volume,1.0 cup,No match found
+61BZ4zrjZXL.jpg,item_weight,0.709 gram,109g
+612mrlqiI4L.jpg,item_weight,0.709 gram,No match found
+617Tl40LOXL.jpg,item_weight,1400 milligram,No match found
+61QsBSE7jgL.jpg,item_weight,1400 milligram,1400mg
+81xsq6vf2qL.jpg,item_weight,1400 milligram,No match found
+71DiLRHeZdL.jpg,item_weight,1400 milligram,No match found
+91Cma3RzseL.jpg,item_weight,1400 milligram,No match found
+71jBLhmTNlL.jpg,item_weight,1400 milligram,No match found
+81N73b5khVL.jpg,item_weight,30.0 kilogram,No match found
+61oMj2iXOuL.jpg,item_weight,10 kilogram to 15 kilogram,10kg
+91LPf6OjV9L.jpg,item_weight,3.53 ounce,No match found
+81fOxWWWKYL.jpg,item_weight,3.53 ounce,No match found
+81dzao1Ob4L.jpg,item_weight,53 ounce,No match found
+91-iahVGEDL.jpg,item_weight,100 gram,No match found
+81S2+GnYpTL.jpg,item_weight,200 gram,No match found
+81e2YtCOKvL.jpg,item_weight,1 kilogram,No match found
+81RNsNEM1EL.jpg,item_weight,200 gram,No match found
+91prZeizZnL.jpg,item_weight,200 gram,No match found
+31EvJszFVfL.jpg,item_weight,200 gram,No match found
+61wzlucTREL.jpg,item_volume,4.0 gallon,No match found
+61sQ+qAKr4L.jpg,item_weight,2.7 gram,No match found
+81x77l2T5NL.jpg,item_weight,112 gram,No match found
+71nywfWZUwL.jpg,item_weight,4.1 kilogram,No match found
+71nywfWZUwL.jpg,voltage,48.0 volt,No match found
+51WsuKKAVrL.jpg,item_weight,158.0 gram,No match found
+61XGDKap+JL.jpg,item_weight,158.0 gram,No match found
+715vVcWJxGL.jpg,item_weight,5000 milligram,No match found
+613v+2W4UwL.jpg,item_weight,18.55 gram,No match found
+71+fn9TWQmL.jpg,item_weight,18.55 gram,No match found
+71aKgRRQ2wL.jpg,item_weight,18.55 gram,No match found
+71rKXZJrh4L.jpg,item_weight,18.55 gram,No match found
+71D824lbRvL.jpg,item_weight,18.55 gram,No match found
+71004c9tzfL.jpg,item_weight,50.0 gram,No match found
+51bQPPtMqYL.jpg,item_weight,26.0 gram,No match found
+61o2ntPNNgL.jpg,wattage,800.0 watt,No match found
+61o2ntPNNgL.jpg,voltage,36.0 volt,No match found
+71IUuTJ8QwL.jpg,item_weight,330.0 pound,No match found
+915JHkwtcrL.jpg,item_weight,31.0 ounce,No match found
+71cjrYndwIL.jpg,item_weight,0.35 ounce,No match found
+81hnk2WXO3L.jpg,item_weight,35.0 gram,No match found
+61HXgujoxpL.jpg,wattage,150.0 watt,No match found
+613G8GOyLSL.jpg,wattage,150.0 watt,No match found
+71YyZ2iPyZL.jpg,wattage,30.0 watt,No match found
+81K3JwUCnQL.jpg,wattage,30.0 watt,No match found
+41wvffSxB4L.jpg,item_weight,15.5 gram,No match found
+91cErO-KbLL.jpg,item_weight,200.0 gram,No match found
+817vo3DcCNL.jpg,wattage,250.0 watt,No match found
+61AHQ35poHL.jpg,item_volume,10.0 ounce,No match found
+61WFh8RCQYL.jpg,item_weight,0.8 kilogram,No match found
+711SATIDrmL.jpg,item_weight,169.0 gram,No match found
+61x6RSjwQIL.jpg,item_weight,10.0 gram,No match found
+613BeFNwHcL.jpg,item_weight,7.0 gram,No match found
+61hWZdkq6WL.jpg,item_weight,750.0 gram,No match found
+71E7CU55dcL.jpg,item_weight,160.0 gram,No match found
+61c+hSNnnZL.jpg,item_weight,270.0 gram,No match found
+915w0BdW-gL.jpg,item_weight,500 gram,No match found
+61sx0ezNNLL.jpg,item_weight,1 kilogram,No match found
+71ldprwbKrL.jpg,item_weight,10 kilogram,No match found
+71E9iF-bmKL.jpg,item_weight,1 kilogram,No match found
+71sWRp1SNwL.jpg,item_weight,2.2 pound,No match found
+61Fwq4GeTmL.jpg,wattage,60.0 watt,No match found
+61-oj+N+BxL.jpg,item_volume,30.0 millilitre,No match found
+71e6kJLE+LL.jpg,item_volume,30.0 millilitre,No match found
+71SuzaRS7gL.jpg,item_volume,30.0 millilitre,No match found
+71nsfFCXF0L.jpg,item_volume,30.0 millilitre,No match found
+71hgN7yu9OL.jpg,item_volume,30.0 millilitre,No match found
+61SmT8pkLtL.jpg,item_weight,2 ounce,No match found
+71ZtDgGX+iL.jpg,item_weight,8.1 gram,No match found
+413FQB0ZMLL.jpg,item_weight,2 kilogram,No match found
+41EjbFu-+yL.jpg,item_weight,10 kilogram,No match found
+71dWDwMhWmS.jpg,item_weight,500.0 kilogram,No match found
+61d6Kj80QSL.jpg,item_weight,200.0 gram,No match found
+71bvOuz9w1L.jpg,item_weight,200.0 gram,No match found
+71l0M0tMGjL.jpg,item_weight,200.0 gram,No match found
+71Lpqdrpi4L.jpg,item_weight,200.0 gram,No match found
+71jLIbCcwOL.jpg,item_weight,100.0 gram,No match found
+718EdwGgyVL.jpg,item_weight,200.0 gram,No match found
+713twQgCHSL.jpg,item_weight,5.0 kilogram,No match found
+61I0O1qJbhS.jpg,item_weight,60.0 pound,No match found
+61eOO5IW4NL.jpg,item_volume,3.0 cubic foot,No match found
+716AQpAJjZL.jpg,item_weight,227 gram,No match found
+71FVeRd2jqL.jpg,item_weight,100 gram,No match found
+81njuNSPdjL.jpg,item_weight,190.0 gram,No match found
+51xfRlxWIXL.jpg,item_weight,100.0 gram,No match found
+71duwM3SjpL.jpg,item_weight,600 milligram,No match found
+612xIhPMHqL.jpg,item_weight,3.2 gram,No match found
+51b9JEHOriL.jpg,item_weight,6.5 gram,No match found
+81lgxfKqUUL.jpg,item_weight,160.0 gram,No match found
+814sAvV89SL.jpg,item_weight,42.0 gram,No match found
+61cMeogK8gL.jpg,item_weight,26.0 gram,No match found
+811VfR10yxL.jpg,wattage,0.55 watt,No match found
+71WLYfmMqQL.jpg,item_weight,50.0 milligram,No match found
+61Dq3LRei9L.jpg,item_weight,10.0 kilogram,No match found
+71XK5d3Oh9L.jpg,wattage,49.0 watt,No match found
+61kyBEJYDeL.jpg,item_weight,500 milligram,No match found
+71uQmsTESvL.jpg,item_weight,500 milligram,No match found
+71jG8BOi4WL.jpg,item_weight,16.0 gram,No match found
+61390hosjFL.jpg,item_weight,8 kilogram,No match found
+71PDbPb275L.jpg,item_volume,500.0 millilitre,No match found
+71YiRw3e1lL.jpg,item_weight,3.0 pound,No match found
+719poaEkdEL.jpg,item_weight,750.0 milligram,No match found
+41njJJg-ANL.jpg,item_weight,8.0 gram,No match found
+71qEriwsbIL.jpg,item_weight,23.0 gram,No match found
+514M5CrBK4L.jpg,item_weight,9.8 gram,No match found
+61qOr-yqaVL.jpg,item_weight,198.0 pound,No match found
+61xxqfM2EwL.jpg,item_weight,9.0 kilogram,No match found
+81yG9eUKvxL.jpg,item_weight,2.5 kilogram,No match found
+61FMOl299lL.jpg,item_weight,50.0 gram,No match found
+41Kn+YOyPjL.jpg,item_volume,10.0 millilitre,No match found
+51q9OE6hfgL.jpg,item_volume,200.0 millilitre,No match found
+51T1Kh7WWGL.jpg,item_weight,4.1 gram,No match found
+71G8XyPqcIL.jpg,item_weight,9.2 gram,No match found
+61Hhju+qn9L.jpg,item_weight,600.0 gram,No match found
+51Alw-4+zJL.jpg,item_weight,20.0 kilogram,No match found
+81l6zfwKG7L.jpg,item_weight,13.0 gram,No match found
+71eATPu53YL.jpg,item_weight,13.0 gram,No match found
+81R8CrWXthL.jpg,item_weight,1000.0 milligram,No match found
+71qiWPgPcUS.jpg,item_weight,264.0 gram,No match found
+81nyHjPXg-L.jpg,item_weight,34 kilogram,No match found
+71EREAIkJZS.jpg,item_weight,72.57 gram,No match found
+61bpzE0p4yL.jpg,item_weight,100 gram,No match found
+71yqAwAikaL.jpg,item_weight,180 gram,No match found
+61431aMH6cL.jpg,item_weight,180 gram,No match found
+71lxjbXw9bL.jpg,item_weight,180 gram,No match found
+71cziTM6TfL.jpg,item_weight,180 gram,No match found
+71Btb49O2dL.jpg,item_weight,180 gram,No match found
+51QhV+Ox86L.jpg,item_weight,33 gram,No match found
+51ArM1PP7WL.jpg,item_weight,8.0 gram,No match found
+51F+K7Zx9fL.jpg,item_weight,1.77 ounce,No match found
+51u2vv6e8yL.jpg,item_weight,350.0 gram,No match found
+71PexaOBvoL.jpg,item_weight,567.0 gram,No match found
+81uHTyMDa7L.jpg,item_weight,567.0 gram,No match found
+81x+p0LzKbL.jpg,item_weight,567.0 gram,No match found
+71kCYzCu0UL.jpg,item_weight,567.0 gram,No match found
+81F2B83meFL.jpg,item_weight,567.0 gram,No match found
+71KFQ3qt4gL.jpg,item_weight,567.0 gram,No match found
+71Oo4M3ApxL.jpg,wattage,60.0 watt,No match found
+71Oo4M3ApxL.jpg,voltage,"[100.0, 240.0] volt",No match found
+61lE-I9cVuL.jpg,item_volume,25.0 millilitre,No match found
+71+FvzD14RL.jpg,item_weight,2.4 kilogram,No match found
+414maJ3RUML.jpg,item_weight,25 kilogram,No match found
+7158CO+v3kL.jpg,item_weight,50.0 kilogram,No match found
+71NoP+8HnqS.jpg,item_weight,263.0 gram,No match found
+51K0v0zo-wL.jpg,item_weight,250.0 gram,No match found
+51H6vfyBqML.jpg,item_weight,250.0 gram,No match found
+81gzy3-ZlML.jpg,item_weight,200 gram,No match found
+71mKPQGo8wL.jpg,item_weight,1.8 kilogram,No match found
+81puuiKhs5L.jpg,item_weight,800.0 gram,No match found
+61CLKFwJa4L.jpg,item_weight,24.8 gram,No match found
+615v9WaUIuL.jpg,item_weight,4.0 kilogram,No match found
+71P0BToikAL.jpg,item_volume,"[8.0, 12.0] fluid ounce",No match found
+61HisZt9hcL.jpg,item_weight,3.59 kilogram,No match found
+81JGAcnf39L.jpg,voltage,12.0 volt,No match found
+31o8WywVeTL.jpg,item_weight,7 gram,No match found
+61Ik5NY4ExL.jpg,item_weight,9.8 gram,No match found
+71pKB7-3itL.jpg,item_volume,16.0 fluid ounce,No match found
+71PGzqxh-EL.jpg,item_weight,3.8 gram,No match found
+71uqF3qqsuL.jpg,item_weight,0.45 kilogram,No match found
+61vdMgkasML.jpg,item_weight,70.5 pound,No match found
+81xeFGugw6L.jpg,voltage,12.0 volt,No match found
+71Ye12U8zRL.jpg,voltage,12.0 volt,No match found
+61UjKZyijBL.jpg,voltage,12.0 volt,No match found
+61v1IQDiIbL.jpg,voltage,12.0 volt,No match found
+71WffHaS-QL.jpg,item_weight,1.87 pound,No match found
+61mLRVKOr3L.jpg,item_weight,125.0 gram,No match found
+619W5ruX5xL.jpg,item_weight,21.0 gram,No match found
+51YZWIRgY0L.jpg,item_weight,30.0 gram,No match found
+81Qf73SxLaL.jpg,voltage,"[85.0, 265.0] volt",No match found
+81cEIIPti-L.jpg,item_volume,4.0 fluid ounce,No match found
+71ciI6RbOqL.jpg,item_volume,4.0 fluid ounce,No match found
+816L-kPJGyL.jpg,item_volume,4.0 fluid ounce,No match found
+7185b+0uzML.jpg,item_volume,0.7 millilitre,No match found
+7185b+0uzML.jpg,item_weight,679.0 milligram,No match found
+71In1fvGSwL.jpg,item_volume,4.0 fluid ounce,No match found
+8146TN-qDgL.jpg,item_weight,500.0 gram,No match found
+71bA7Tj2y5L.jpg,item_weight,15.0 kilogram,No match found
+51ZpARXmu+L.jpg,wattage,8.0 watt,No match found
+81ZyvlRczjL.jpg,item_weight,175.0 kilogram,No match found
+81zuZujBfyL.jpg,item_weight,175.0 kilogram,No match found
+71mi7h+tZmL.jpg,item_weight,1.0 gram,No match found
+71A7RiB2IIS.jpg,wattage,100.0 watt,No match found
+61UkMSPhLSS.jpg,wattage,100.0 watt,No match found
+616QEdZeLGL.jpg,wattage,100.0 watt,No match found
+61nvPvyO7kL.jpg,wattage,100.0 watt,No match found
+71ihnkVAoCL.jpg,item_weight,460.0 gram,No match found
+51WaQdTFyhL.jpg,wattage,3.0 watt,No match found
+71k9HXFp5VL.jpg,item_weight,23.0 kilogram,No match found
+81hbfdu3UaL.jpg,item_volume,3.0 millilitre,No match found
+815pYcvCCeL.jpg,item_weight,300.0 gram,No match found
+615roHaokEL.jpg,item_weight,100.0 gram,No match found
+71JXfZLNJjL.jpg,item_weight,22.0 gram,No match found
+71yQq9I3yzL.jpg,item_weight,3.0 gram,No match found
+718M5ODio0L.jpg,item_weight,3.0 gram,No match found
+61lpwH0qHbL.jpg,item_weight,3.0 gram,No match found
+712sZRVe98L.jpg,item_weight,2.0 ton,No match found
+71d+dz7ogkL.jpg,maximum_weight_recommendation,15 kilogram,No match found
+51WSQa1ygML.jpg,item_weight,14.8 gram,No match found
+71QR6ELoPnL.jpg,item_weight,4.4 pound,No match found
+71cO37WLcCL.jpg,item_weight,4.4 pound,No match found
+71k0T1lkazL.jpg,maximum_weight_recommendation,350 pound,No match found
+61qfHDESRQL.jpg,item_weight,4.5 gram,No match found
+61QC4Kt6FgL.jpg,item_weight,4.5 gram,No match found
+81+ZDpWM6aL.jpg,item_volume,1977.0 decilitre,No match found
+711unoPoAUL.jpg,item_weight,120.0 gram,No match found
+91yjUjUz1PL.jpg,item_volume,100.0 millilitre,No match found
+61iyjkBOWwL.jpg,item_volume,100.0 millilitre,No match found
+81bWfMuySqL.jpg,item_volume,100.0 millilitre,No match found
+81cNMlJ3rUL.jpg,item_weight,40.0 gram,No match found
+71V8xeIdY8L.jpg,item_weight,0.0 gram,No match found
+81QVNxEt5jL.jpg,item_weight,40.0 gram,No match found
+61rzdBIml6S.jpg,item_weight,60.0 gram,No match found
+71XLo+kfY4S.jpg,item_weight,60.0 gram,No match found
+61GnRPsq7eS.jpg,item_weight,390 gram,No match found
+71L-+M3VVPL.jpg,item_weight,"[25.0, 30.0] pound",No match found
+81OX3LrynvL.jpg,maximum_weight_recommendation,120 kilogram,No match found
+71CgwBBpm2L.jpg,item_weight,5.0 gram,No match found
+61uEVvHFcnL.jpg,item_weight,5.0 gram,No match found
+6186qz73QDL.jpg,item_volume,2.55 cubic inch,No match found
+51-GFfHUt5L.jpg,item_weight,100 gram,No match found
+71wManz+q7L.jpg,item_weight,100.0 gram,No match found
+71rBE9Nt9sL.jpg,item_weight,100.0 gram,No match found
+61NpAba1eLL.jpg,item_weight,2.6 gram,No match found
+81GfAC59d9L.jpg,item_weight,7.9 kilogram,No match found
+71BkkuPYJFL.jpg,item_weight,150.0 kilogram,No match found
+61k7TzX5kYL.jpg,item_weight,0.9 kilogram,No match found
+81hGUpAFNJL.jpg,voltage,7.0 volt,No match found
+71iSbwHDcdL.jpg,voltage,"[175.0, 265.0] volt",No match found
+81BxHI-QPIL.jpg,item_weight,2.82 ounce,No match found
+71WaRSgdUyL.jpg,item_weight,16.0 gram,No match found
+61cEFL6Y49L.jpg,item_weight,132.0 gram,No match found
+817S4LJR21L.jpg,item_weight,77.0 gram,No match found
+81V9hFKQT4L.jpg,item_weight,77.0 gram,No match found
+81i7biHKFUL.jpg,item_weight,100.0 gram,No match found
+9146CDDyS1L.jpg,item_weight,100.0 gram,No match found
+61zbBwJJ86L.jpg,item_weight,25 gram,No match found
+61g2MIPw-SL.jpg,item_weight,25 gram,No match found
+61rViW3qEDL.jpg,item_weight,25 gram,No match found
+41fYovCueJL.jpg,item_weight,150 gram,No match found
+61dL1hqmPTL.jpg,item_weight,150 gram,No match found
+61ErAvSUnML.jpg,item_weight,150 gram,No match found
+41J6cTfYEJL.jpg,item_weight,150 gram,No match found
+51FHIAeaWpL.jpg,item_weight,150 gram,No match found
+51egZNPkbmL.jpg,item_weight,150 gram,No match found
+61ptgk7Z6NL.jpg,item_weight,200 gram,No match found
+61mR0nvTi2L.jpg,item_weight,2460.0 gram,No match found
+71kKyflqh-L.jpg,maximum_weight_recommendation,7 kilogram,No match found
+81jraWFAHEL.jpg,item_weight,6.0 ton,No match found
+61q8BFKyG5L.jpg,item_weight,2.5 kilogram,No match found
+711pKODV8fL.jpg,wattage,60.0 watt,No match found
+818ZG7g9hHL.jpg,wattage,21.6 watt,No match found
+818ZG7g9hHL.jpg,voltage,240.0 volt,No match found
+719SXCcE+yL.jpg,item_weight,1300.0 gram,No match found
+71KGqjaeU3L.jpg,voltage,120.0 volt,No match found
+81pIxwIlH1L.jpg,item_weight,22.0 gram,No match found
+81dTA+JL8hL.jpg,item_weight,22.0 gram,No match found
+91YXnPoBr9L.jpg,item_weight,22.0 gram,No match found
+61ssSqT8LBL.jpg,item_weight,2022.0 gram,No match found
+71rMtEbiU2L.jpg,item_weight,220.0 gram,No match found
+71DngBpcvfL.jpg,item_weight,220.0 gram,No match found
+81eYKrxwPeL.jpg,item_weight,240.0 gram,No match found
+41yG6r50SGL.jpg,item_weight,47.0 gram,No match found
+61CKA8YZZQL.jpg,item_weight,11 pound,No match found
+71GGzJw4lJL.jpg,item_weight,5 kilogram,No match found
+71s4ixwJ35L.jpg,item_weight,6.6 pound,No match found
+61oJbgINwyL.jpg,item_weight,3 kilogram,No match found
+71xNXOBXbeL.jpg,item_weight,6.6 pound,No match found
+81ILq5SlokL.jpg,item_weight,5 kilogram,No match found
+61qBC3QCpKL.jpg,item_weight,3 kilogram,No match found
+41jz25vrqpL.jpg,item_weight,9 gram,No match found
+81fRIl3bhHL.jpg,item_weight,18.0 ounce,No match found
+61ZcOamhAXL.jpg,item_weight,0.13 pound,No match found
+6179WU7pPnL.jpg,item_weight,0.41 kilogram,No match found
+711UcLF1AOL.jpg,item_weight,2.0 pound,No match found
+71bEyocs6cL.jpg,item_weight,2.0 pound,No match found
+81P0F4kSO5L.jpg,item_weight,38.0 gram,No match found
+61xt0+F24LL.jpg,item_weight,50.0 gram,No match found
+41o+Ah16aOL.jpg,item_weight,50.0 gram,No match found
+61t+5wQl08L.jpg,item_weight,500.0 milligram,No match found
+61jznP3TP-L.jpg,item_weight,50.0 gram,No match found
+41UtmzUICML.jpg,item_weight,76.0 ounce,No match found
+71N+e+6NXUL.jpg,item_weight,150.0 gram,No match found
+71wSp5zkmOL.jpg,item_weight,13.0 gram,No match found
+61dRC9mLuLL.jpg,item_weight,150.0 gram,No match found
+718Y1zul73L.jpg,item_weight,2.1 pound,No match found
+61HmWvlaCgS.jpg,item_weight,0.0 pound,No match found
+61hmMEg2+JL.jpg,item_weight,40.0 gram,No match found
+717jdsjET2S.jpg,item_weight,30.0 gram,No match found
+71UctMVz2wL.jpg,item_weight,1.43 pound,No match found
+71Y2sN5CZ2L.jpg,item_weight,200.0 kilogram,No match found
+71TIH9xp14L.jpg,item_weight,260.0 gram,No match found
+51MfQdcFO4L.jpg,wattage,20.0 watt,No match found
+61IZwm4favL.jpg,item_weight,4.0 gram,No match found
+71Cpa4ITxCL.jpg,item_weight,23.0 kilogram,No match found
+71XKEn+9WSL.jpg,item_weight,0.0 ounce,No match found
+71Yl8r0WgHL.jpg,maximum_weight_recommendation,12.0 ounce,No match found
+71VHlwzHsIL.jpg,item_weight,34.5 gram,No match found
+81aU1hA-LKL.jpg,item_weight,60.0 gram,No match found
+911ddalhbYL.jpg,item_weight,4.0 pound,No match found
+71CPTuB3GzL.jpg,item_weight,32.0 gram,No match found
+61ZR+zqTeFL.jpg,item_weight,32.0 gram,No match found
+71IqOdJNJ0L.jpg,item_weight,13.5 ounce,No match found
+812RLyHuZgL.jpg,item_weight,7.0 ounce,No match found
+61nQgfAzcjL.jpg,item_weight,15.9 gram,No match found
+51LXZCTnMuL.jpg,item_weight,35.3 gram,No match found
+71PKpcLG-3L.jpg,item_weight,10 kilogram,No match found
+71om5sNcHSL.jpg,item_weight,10 kilogram,No match found
+51iLFnog-TL.jpg,item_weight,200 gram,No match found
+71ZTyrP+83L.jpg,item_weight,100 gram,No match found
+71IXiyI6MgL.jpg,item_weight,315.0 gram,No match found
+71as9Ior9hL.jpg,item_weight,22.0 gram,No match found
+71MG6eEeFZS.jpg,voltage,18.0 volt,No match found
+81uaGW5FXGL.jpg,item_weight,4.0 gram,No match found
+81flV4kwOwL.jpg,item_weight,8.0 ounce,No match found
+51xK4g4F03S.jpg,voltage,240.0 volt,No match found
+51R15QuIuyL.jpg,voltage,12.0 volt,No match found
+51vgDwEY7xL.jpg,voltage,12.0 volt,No match found
+81JoUrtkpmL.jpg,item_volume,1.69 fluid ounce,No match found
+81VXdzB0RVL.jpg,item_volume,64.0 fluid ounce,No match found
+819iiEopcWL.jpg,item_volume,8.0 fluid ounce,No match found
+81OYyqNGOmL.jpg,item_volume,8.0 fluid ounce,No match found
+91zZGVgZh+L.jpg,item_weight,13.0 ton,No match found
+71U6lF5xVsL.jpg,voltage,"[220.0, 240.0] volt",No match found
+81-qTUhd0eL.jpg,wattage,1000.0 watt,No match found
+81MuNrz5V4L.jpg,wattage,800.0 watt,No match found
+51PKOVajYoL.jpg,item_weight,4.4 gram,No match found
+71FO3i3r+US.jpg,item_weight,750 gram,No match found
+71r5a-F3-BS.jpg,item_weight,750 gram,No match found
+81mBfsyl+DL.jpg,item_weight,123.0 gram,No match found
+714cnffNW3L.jpg,item_weight,123.0 gram,No match found
+81DMfLssTwL.jpg,item_weight,123.0 gram,No match found
+81M9xG3reDL.jpg,item_weight,123.0 gram,No match found
+71BqZJVE4kL.jpg,item_weight,123.0 gram,No match found
+81L5qqZU1NL.jpg,item_weight,8.0 ounce,No match found
+717z1HKi8oL.jpg,item_weight,123.0 gram,No match found
+71J+30S5EDL.jpg,item_weight,200 gram,No match found
+71A2oqx3rmL.jpg,item_weight,56 gram,No match found
+91-tHcMlZzL.jpg,item_weight,320.0 gram,No match found
+71NFYx8fBXL.jpg,item_weight,320.0 gram,No match found
+61vlGd51PeL.jpg,item_weight,0.88 pound,No match found
+61ZBhPKQ2xL.jpg,item_weight,8.0 gram,No match found
+51zeZBf-HcL.jpg,voltage,36.0 volt,No match found
+616boDUl2HL.jpg,item_weight,1440 milligram,No match found
+61Q-ggen5XL.jpg,item_weight,1.6 gram,No match found
+8190fwx-OdL.jpg,item_weight,1.2 gram,No match found
+41CKvM8JV7L.jpg,item_weight,14.0 gram,No match found
+71THO4WNG-L.jpg,item_weight,590.0 gram,No match found
+71J-AA3BW3L.jpg,item_weight,100.0 kilogram,No match found
+81PcR51hbUL.jpg,item_weight,50.0 ton,No match found
+717XYkhGpKL.jpg,item_weight,276.0 gram,No match found
+61ezcEdeQcL.jpg,item_weight,400.0 milligram,No match found
+61gjCs2yeCL.jpg,item_weight,90.0 gram,No match found
+51E+rGvwO0L.jpg,wattage,24.0 watt,No match found
+811QUiTwekL.jpg,item_volume,8.0 fluid ounce,No match found
+71iifNw7WkL.jpg,item_weight,165.0 pound,No match found
+51YdPlXffPL.jpg,item_volume,2007.0 gallon,No match found
+51eGoOSfx4L.jpg,item_volume,2006.0 gallon,No match found
+61Fxk72idwL.jpg,item_volume,2007.0 gallon,No match found
+61cNUSZr+EL.jpg,item_weight,2.5 gram,No match found
+41egkCDTTML.jpg,item_weight,100.0 gram,No match found
+6183amP6LdL.jpg,item_weight,3.52 ounce,No match found
+61NpoOFjk6L.jpg,item_weight,100 gram,No match found
+61DnguuYwbL.jpg,item_weight,3.52 ounce,No match found
+71khUZBj+4L.jpg,item_weight,100 gram,No match found
+715DgMR-hkL.jpg,item_weight,10.5 kilogram,No match found
+81xqMNmhEpL.jpg,maximum_weight_recommendation,300 kilogram,No match found
+51En0fgN73L.jpg,item_weight,70 gram,No match found
+81CYds5q79L.jpg,item_weight,70 gram,No match found
+81ssfOL5b-L.jpg,item_weight,70 gram,No match found
+61E9-xj8ciL.jpg,item_weight,3.52 ounce,No match found
+617Jckaf62L.jpg,item_weight,100 gram,No match found
+71RjWH103nS.jpg,item_weight,200 gram,No match found
+51Ak7GKuiLL.jpg,item_weight,200 gram,No match found
+71BTB4+8bWL.jpg,item_weight,0 gram,No match found
+717izgnf0qL.jpg,item_weight,0 gram,No match found
+918PpLvmRHL.jpg,item_weight,60 gram,No match found
+71KQtc1rA6L.jpg,item_weight,11.7 gram,No match found
+71DwqzSrFCL.jpg,item_weight,11.7 gram,No match found
+61BmXdBPeAL.jpg,item_weight,120.0 gram,No match found
+61EZUdXT3vL.jpg,item_weight,0.51 kilogram,No match found
+41-GUSWgzWL.jpg,wattage,72.0 watt,No match found
+41zNB8ZshmL.jpg,item_volume,200.0 millilitre,No match found
+611UdEWakYL.jpg,item_weight,7.5 gram,No match found
+71xH9zWYDXL.jpg,item_weight,120.0 kilogram,No match found
+81yGnWN1gpL.jpg,item_weight,4.0 kilogram,No match found
+71iJwszcKmL.jpg,item_weight,4.0 kilogram,No match found
+814zl+0TMJL.jpg,item_weight,2.0 gram,No match found
+41fX-OWziML.jpg,wattage,54.0 watt,No match found
+71uSbcePMFL.jpg,item_weight,400.0 gram,No match found
+4147dGptveL.jpg,item_weight,100.0 gram,No match found
+616vBbocrvL.jpg,voltage,12.0 volt,No match found
+814BwteCiwL.jpg,voltage,12.0 volt,No match found
+81k08BRlQdL.jpg,item_weight,271.0 gram,No match found
+51ZPy1PgAnL.jpg,item_weight,20.0 gram,No match found
+81cXf6HnPWL.jpg,item_weight,271.0 gram,No match found
+716Gw2+1EzL.jpg,item_weight,35.0 gram,No match found
+71JCDu6h05S.jpg,item_weight,154 pound,No match found
+71oiYZsDN2L.jpg,item_weight,2601 pound,No match found
+718QeeH3QyL.jpg,item_weight,14.5 gram,No match found
+81xiCm7XYWL.jpg,item_weight,565.0 gram,No match found
+71qMt6EnwlL.jpg,item_weight,240.0 gram,No match found
+612WwnwSEzL.jpg,item_weight,300.0 milligram,No match found
+61MGk3PsxcL.jpg,item_weight,300.0 milligram,No match found
+61e7EW6lRvL.jpg,item_weight,3.5 ounce,No match found
+7104ARm7I-L.jpg,maximum_weight_recommendation,440.0 pound,No match found
+71V3-MUsc6L.jpg,item_weight,32.0 gram,No match found
+71Eszh9j23L.jpg,item_weight,32.0 gram,No match found
+71guQr5cqaL.jpg,item_weight,454.0 gram,No match found
+71cmBtqE8NL.jpg,item_weight,1.0 ounce,No match found
+71C4XXPcZ3L.jpg,item_weight,454.0 gram,No match found
+61L4wjI4YEL.jpg,maximum_weight_recommendation,6.0 ton,No match found
+410gyMVw-UL.jpg,item_weight,96.0 gram,No match found
+81ZWxc+sUML.jpg,item_weight,900.0 gram,No match found
+71dl7T4AWKL.jpg,wattage,66.0 watt,No match found
+61DHSHAPVLL.jpg,item_weight,24.0 gram,No match found
+71u9qpY7TtL.jpg,item_weight,2.0 kilogram,No match found
+81TYV2TkiGL.jpg,item_weight,500.0 gram,No match found
+71c-++zgVxL.jpg,item_weight,423.0 gram,No match found
+71c0GP5KuPL.jpg,item_weight,70.0 kilogram,No match found
+51KGPCaOwyL.jpg,item_weight,143.0 gram,No match found
+71ws-E5lBtL.jpg,item_weight,0.45 ounce,No match found
+51DnP-sc-YL.jpg,item_weight,44115.0 ton,No match found
+61sYpkCc8gL.jpg,item_volume,1.0 litre,No match found
+71LlzAFiptL.jpg,voltage,36.0 volt,No match found
+71pvXAM5PWL.jpg,voltage,36.0 volt,No match found
+71pvXAM5PWL.jpg,wattage,250.0 watt,No match found
+811zQczlePL.jpg,item_weight,100.0 gram,No match found
+81cjPJpZ3-L.jpg,item_weight,100.0 gram,No match found
+616k4sH4pZL.jpg,wattage,20.0 watt,No match found
+51+N63vjwWL.jpg,item_weight,10.7 gram,10.7g
+71w+ZJKvGML.jpg,item_weight,10.0 ounce,No match found
+51ewovtbRtL.jpg,item_weight,130.0 gram,130g
+819v28pzDoL.jpg,item_weight,1.8 ounce,No match found
+81yidnjAQ+L.jpg,item_weight,1.8 ounce,No match found
+71D81Xct+vL.jpg,item_weight,15 gram,No match found
+7107fyOBRRL.jpg,item_weight,600 milligram,600 m
+71ubk42imPL.jpg,maximum_weight_recommendation,15 pound,No match found
+41wv12SiMUS.jpg,item_weight,5.3 gram,5.3g
+719tUNMxONL.jpg,item_weight,250 gram,No match found
+616AZ2LXWAL.jpg,item_weight,12.3 kilogram,No match found
+51xoa3bRhDL.jpg,item_weight,50 gram,No match found
+61AqXby8G4L.jpg,item_weight,18.0 gram,No match found
+71-9z6AVvPL.jpg,item_weight,14.5 kilogram,14.5kg
+81gL5mNlN8L.jpg,item_weight,63 gram,No match found
+71EhZZVhi2L.jpg,item_weight,8.7 gram,No match found
+81cYIj47SPL.jpg,voltage,24.0 volt,No match found
+91rFLNmJC4L.jpg,item_weight,100 gram,100g
+61fUGb1nYML.jpg,item_weight,4.8 gram,4.8g
+61o8MpHHsnL.jpg,item_weight,450.0 kilogram,No match found
+71s5Tk5r4tL.jpg,item_weight,360.0 milligram,No match found
+61SsfLTCHcL.jpg,item_weight,2.98 pound,No match found
+61Kzp6mUyDL.jpg,voltage,230.0 volt,No match found
+7122mFDMKdL.jpg,wattage,30.0 watt,No match found
+914b-Rbu8sL.jpg,wattage,30.0 watt,No match found
+61QLqAtk49L.jpg,item_weight,36.0 gram,No match found
+71oR4f2O8TL.jpg,item_weight,36.0 gram,No match found
+91CFwJYqSIL.jpg,item_weight,93.0 gram,No match found
+61EtovzpV8L.jpg,item_weight,5.8 gram,No match found
+71DdZjdjY2L.jpg,item_weight,2325.0 microgram,No match found
+81Lk7YnVq6L.jpg,wattage,250.0 watt,No match found
+61kX5ScRxdL.jpg,item_weight,3.0 pound,No match found
+512zELhKnmL.jpg,item_weight,15.17 ounce,15.17 oz
+51bvN6sQJZL.jpg,item_weight,328.0 gram,No match found
+61BJZI+N6FL.jpg,voltage,5.0 volt,No match found
+71dQhAkuiXL.jpg,voltage,5.0 volt,No match found
+71iCDzf3SVL.jpg,item_weight,280.0 gram,No match found
+71FSLU7TEyL.jpg,item_weight,80.0 kilogram,No match found
+71-q0hAgSSL.jpg,item_volume,200.0 millilitre,200 m
+7127o10t9tL.jpg,maximum_weight_recommendation,250 pound,250 L
+71jD7X6Eo5L.jpg,item_weight,2.0 pound,No match found
+51WKciNNXsL.jpg,item_weight,20.0 gram,No match found
+313aG8L3-rL.jpg,item_weight,30.0 kilogram,No match found
+31aalwb8cdL.jpg,item_weight,30.0 kilogram,No match found
+71slQD6kfYL.jpg,wattage,210.0 watt,No match found
+51xVMJXeyUL.jpg,wattage,15.0 watt,No match found
+61LThsu6KrL.jpg,item_weight,3.0 gram,No match found
+61KcdM-rxqL.jpg,item_weight,39.0 gram,No match found
+41ZqgLmAOpL.jpg,item_weight,1.16 kilogram,No match found
+814tdSHcsrL.jpg,item_weight,4.8 kilogram,8 KG
+71q-GgOyiWL.jpg,item_weight,380.0 gram,No match found
+718AbJ-lnUL.jpg,item_weight,0.28 ounce,0.28 OZ
+81elFizoqgL.jpg,item_weight,100 gram,No match found
+71FcYrlHEEL.jpg,item_weight,100 gram,No match found
+71uyQ21zqVL.jpg,item_weight,100 gram,No match found
+71Iz6gGlhzL.jpg,item_weight,150 gram,No match found
+51NBIRi0OLL.jpg,item_weight,150 gram,150.0 Gram
+61JcUwBXP6L.jpg,item_weight,10 kilogram,No match found
+61pdB9fr-cL.jpg,item_weight,10 kilogram,No match found
+516rrBjrjnL.jpg,item_weight,200 gram,No match found
+81IGy+1kZHL.jpg,item_weight,100 gram,No match found
+71f8PsMyZIL.jpg,item_weight,100 gram,100g
+71iA1buDH4S.jpg,item_weight,16.26 gram,No match found
+71jmtTh5QES.jpg,item_weight,16.26 gram,No match found
+518L45yHsfL.jpg,item_weight,316 gram,316g
+7179JK26-1L.jpg,item_weight,2.9 kilogram,2.9 kg
+719skH5g3DL.jpg,item_weight,10.3 gram,10.3g
+81L5nXqWeLL.jpg,item_weight,8.0 kilogram,No match found
+61m-jQu+ZaL.jpg,item_weight,1.0 gram,No match found
+71yqw2dcvCL.jpg,item_weight,"[11.0, 12.0] ounce",No match found
+51osfJX-RKL.jpg,item_weight,10.0 gram,No match found
+71cSLrQ6LrL.jpg,item_weight,19.2 gram,19.2g
+71yBp56rqoL.jpg,item_weight,2.4 gram,No match found
+71RIelu5DKL.jpg,item_weight,8.0 kilogram,No match found
+61IjAvkDTfL.jpg,item_weight,4.0 ounce,No match found
+716moDrkaoL.jpg,item_weight,12.0 pound,No match found
+71fUbmGV03S.jpg,item_weight,5.0 gram,No match found
+91+No1yJ4tL.jpg,item_volume,"[70.0, 100.0] millilitre",No match found
+71W7WvEFKhL.jpg,voltage,36.0 volt,No match found
+71GzvcDB6lL.jpg,item_weight,150.0 kilogram,No match found
+81zIAhFrnzL.jpg,item_weight,10.0 ounce,No match found
+51rkj-m8XgL.jpg,item_weight,0.0 gram,No match found
+71WXaLncyzL.jpg,item_weight,340.0 gram,No match found
+71dyB6APhAL.jpg,item_weight,60.0 gram,No match found
+81SkA+MLX-L.jpg,item_weight,266.0 gram,No match found
+81ov5-nfGNL.jpg,item_weight,60.0 gram,No match found
+71gvmYk-SzL.jpg,item_weight,16.0 gram,No match found
+71SkD9omPEL.jpg,item_weight,14.2 gram,14.2g
+61iEby7IFnL.jpg,item_weight,180.0 gram,No match found
+61XtmD4218L.jpg,item_weight,1.1 pound,No match found
+1yw53vfQtS.jpg,voltage,25.0 volt,No match found
+61kZYqMZkBL.jpg,wattage,20.0 watt,No match found
+71ig4HmyXxL.jpg,item_weight,2.0 kilogram,No match found
+71LLYpCs8aL.jpg,item_weight,152 gram,No match found
+71spx008DVL.jpg,item_weight,152 gram,No match found
+715+3IvBqDL.jpg,item_weight,152 gram,No match found
+810DaIixzVL.jpg,item_weight,152 gram,No match found
+81jWJ27eORL.jpg,item_weight,235 gram,No match found
+51n6jNqdQ+L.jpg,item_weight,1.76 ounce,No match found
+71hQMF-ovpL.jpg,maximum_weight_recommendation,25 kilogram,No match found
+81Md2Rf0jNL.jpg,item_weight,4.5 kilogram,No match found
+81XOwrnEzWL.jpg,item_weight,80 gram,No match found
+81vEMGOaA+L.jpg,item_weight,30 pound,No match found
+61tSt4Z432L.jpg,item_weight,5 millilitre,No match found
+61bgCqNKgjL.jpg,item_weight,5 millilitre,No match found
+610bLFQIS3L.jpg,item_weight,15.0 kilogram,No match found
+610bLFQIS3L.jpg,height,95.0 centimetre,No match found
+81qszCTb+bL.jpg,item_weight,10000 milligram,000m
+81XGHPJXaxL.jpg,item_weight,10000 milligram,000m
+81TggckMRtL.jpg,item_weight,10000 milligram,No match found
+91YHYuLs6YL.jpg,item_weight,10000 milligram,000m
+61veU4csGzL.jpg,item_weight,2.4 gram,No match found
+61aC-VmOwyL.jpg,item_weight,235.0 gram,235 gram
+41L36Xmjq1L.jpg,item_weight,6.1 gram,6.1g
+71mCI1CckQL.jpg,item_volume,699.0 litre,No match found
+616gIYem7lL.jpg,item_weight,2.0 gram,No match found
+61MlQO3L2HL.jpg,item_weight,3.7 gram,3.7g
+71zHdpfjROL.jpg,item_weight,1 kilogram,No match found
+61t775ZzpUL.jpg,item_weight,104 gram,No match found
+61s4RS00gZL.jpg,item_weight,623 gram,No match found
+71hs5hR0HCL.jpg,item_weight,623 gram,No match found
+61d2+FXZgFL.jpg,item_weight,350 gram,No match found
+51U1AUHfy4S.jpg,wattage,10.0 watt,No match found
+619IwgmE7vL.jpg,item_weight,0.65 kilogram,0.65kg
+6136jV+MAhL.jpg,item_weight,10.3 kilogram,10.3 KG
+71PpDivTGBL.jpg,item_weight,9361.0 ton,No match found
+81mop7vG17L.jpg,item_weight,2.4 gram,No match found
+51vjHJDkFSL.jpg,item_weight,2.1 gram,No match found
+71bpiR8cdvL.jpg,item_weight,209.0 gram,209g
+51zsbF57xoL.jpg,item_weight,0.69 kilogram,0.69kg
+81EQ4y+tcVL.jpg,item_weight,200.0 gram,No match found
+71OYbcdjB+L.jpg,item_weight,360.0 gram,360g
+71j8SpEJsQL.jpg,item_weight,360.0 gram,No match found
+81am0nSNV8L.jpg,item_weight,360.0 gram,No match found
+812FQj5EuzL.jpg,item_weight,360.0 gram,No match found
+71M8-w9P5CL.jpg,item_weight,5.0 gram,No match found
+81OUHPLuGXL.jpg,item_weight,13.0 gram,No match found
+61p6X5pAh2L.jpg,item_weight,8.0 gram,No match found
+61K8Ua5gvkS.jpg,wattage,1800.0 watt,No match found
+818hmVQLFPL.jpg,maximum_weight_recommendation,180.0 milligram,No match found
+71TXss3FDIL.jpg,item_weight,1800.0 milligram,1800 mg
+81R3NVEl7WL.jpg,item_weight,1800.0 milligram,1800 mg
+812FE4kIZ8L.jpg,item_weight,1800.0 milligram,1800 mg
+91vaXlvP39L.jpg,item_weight,1800.0 milligram,No match found
+716zx9BQQrL.jpg,item_weight,1800.0 milligram,1800 Mg
+71eUZfBrU0L.jpg,item_weight,0.43 ounce,No match found
+71ZdsMss0IL.jpg,item_weight,1.0 gram,No match found
+616SlISCmCL.jpg,item_weight,1.0 gram,No match found
+91CowFswP-L.jpg,item_weight,661.0 pound,No match found
+71mVVuk+3+L.jpg,item_volume,100.0 millilitre,No match found
+51DBKW1-ZfL.jpg,item_weight,1.0 kilogram,No match found
+61OAxi2VMaL.jpg,item_volume,30.0 millilitre,No match found
+518DkfrkDyL.jpg,item_weight,10.0 kilogram,No match found
+91t88+lMXlL.jpg,item_weight,227.0 gram,No match found
+81uOqJUfZKL.jpg,item_weight,2.0 ton,No match found
+61Ppw3UyazL.jpg,item_weight,23.0 gram,No match found
+811oWxn25JL.jpg,item_weight,55.0 pound,No match found
+91xCTMzhWgL.jpg,item_weight,55.0 pound,No match found
+51sB9UTQ3KL.jpg,item_weight,23.0 gram,No match found
+717KeUEIVHL.jpg,item_weight,0.35 ounce,No match found
+71s6un2r1yL.jpg,item_weight,1.05 kilogram,1.05kg
+71BPjlDfL3S.jpg,item_weight,2.25 pound,No match found
+61esWevNnyL.jpg,item_weight,180.0 gram,No match found
+61DlngDxqRL.jpg,item_weight,180.0 gram,No match found
+71g2vdmxGyL.jpg,wattage,8.0 watt,No match found
+61v9VArQTaL.jpg,item_weight,90.0 microgram,No match found
+71PZRojLfPL.jpg,item_weight,90.0 microgram,90 m
+71RB09wAHCL.jpg,item_weight,90.0 microgram,No match found
+81sYLRguQAL.jpg,item_weight,16.0 kilogram,No match found
+61JjT2SkbcL.jpg,item_weight,10 gram,No match found
+61h5PZTZzFL.jpg,item_weight,15 gram,15 gram
+714uk8k9G-L.jpg,maximum_weight_recommendation,20 kilogram,No match found
+612Pfj34ezL.jpg,maximum_weight_recommendation,100 kilogram,No match found
+61I5OgWTHzS.jpg,item_weight,50 gram,No match found
+41VW9GpvXRL.jpg,item_weight,59 gram,No match found
+61UyjmaQqOL.jpg,item_weight,250 gram,No match found
+61UzwBMYl9L.jpg,item_weight,250 gram,No match found
+61Z5XF4-aIL.jpg,item_weight,250 gram,No match found
+61pIrILVODL.jpg,item_weight,250 gram,No match found
+613nE3FmFsL.jpg,item_weight,250 gram,No match found
+51RxbgdHfNL.jpg,item_weight,15.0 kilogram,No match found
+61XOUrPe5JL.jpg,item_weight,500.0 milligram,No match found
+81t1WqFA3NS.jpg,item_weight,700.0 milligram,No match found
+81K82v1j4BS.jpg,item_weight,700.0 milligram,700 m
+51QtLWzTp4L.jpg,item_weight,2.6 gram,2.6g
+610lfvZw1PL.jpg,item_weight,15.0 milligram,No match found
+71yGBwOkryL.jpg,item_weight,15.0 milligram,No match found
+61peKmUAhrL.jpg,item_weight,20.0 gram,No match found
+51egJX-jygL.jpg,item_weight,8.0 gram,No match found
+61dWZVY4vgL.jpg,item_weight,27.0 ounce,No match found
+81HKYnOpDAL.jpg,item_weight,99.0 gram,No match found
+81dNhvyIQFL.jpg,item_weight,99.0 gram,No match found
+81OqzXDSCmL.jpg,item_weight,99.0 gram,No match found
+81T2bEkNmTL.jpg,item_weight,99.0 gram,No match found
+91p4-BYgVoL.jpg,item_weight,396.0 gram,No match found
+71YgdZYVn9L.jpg,item_weight,99.0 gram,No match found
+81bmDxNlJPL.jpg,item_weight,99.0 gram,No match found
+81Ev0Om2rQL.jpg,item_weight,99.0 gram,No match found
+61JWnlkwSSL.jpg,item_weight,32.0 gram,No match found
+61Cydk2KHZL.jpg,item_weight,1.2 pound,No match found
+619+PT-LlsL.jpg,item_volume,128.0 fluid ounce,No match found
+717iuHuDG4L.jpg,item_volume,128.0 fluid ounce,No match found
+61pfSJr2FmL.jpg,item_volume,10.0 millilitre,No match found
+61kIRPnUnVL.jpg,item_volume,10.0 millilitre,No match found
+71MnmIz6W1L.jpg,item_volume,10.0 millilitre,No match found
+71AKNNbNDBL.jpg,item_volume,10.0 millilitre,No match found
+61SGOCbfjWL.jpg,item_weight,4.4 pound,No match found
+812xgMyqYYL.jpg,item_weight,2.9 gram,2.9 gram
+813yFu+vt1L.jpg,item_weight,35.0 pound,No match found
+71TPzyps42L.jpg,item_weight,725.0 gram,No match found
+71yMHX+ppyL.jpg,wattage,500.0 watt,No match found
+71yMHX+ppyL.jpg,voltage,48.0 volt,No match found
+81TRyizCNWL.jpg,voltage,12.0 volt,No match found
+61H0snVm4jL.jpg,item_weight,200.0 gram,No match found
+71FtK6Af8DL.jpg,item_weight,200.0 gram,No match found
+61TPGrJHRpL.jpg,item_weight,106.0 gram,No match found
+71BAZevNH-L.jpg,item_weight,3.6 ounce,6 oz
+515Ye+2zX7L.jpg,item_weight,71.2 pound,No match found
+31aNgDKo7CL.jpg,item_weight,4.0 gram,No match found
+61ZTg59QmBL.jpg,item_weight,1208.0 gram,No match found
+71cru9igj0L.jpg,item_weight,360.0 pound,No match found
+61X1Jri6F0L.jpg,item_weight,250 gram,No match found
+61WyBc87vdL.jpg,item_weight,1.1 pound,No match found
+71lU5AOwVgL.jpg,item_weight,100 gram,No match found
+81qwXzAaxPL.jpg,item_weight,100 gram,No match found
+81Sp23t4mhL.jpg,item_weight,100 gram,No match found
+91OyqfSMgrL.jpg,item_weight,100 gram,No match found
+61NkLpxQLzL.jpg,item_weight,14 gram,14 gram
+61kmi1O2SSL.jpg,item_weight,150 gram,No match found
+51V6okXxUOL.jpg,item_weight,100 gram,No match found
+61+cG18kPrL.jpg,item_weight,3.3 gram,No match found
+81VGd3sNuAL.jpg,item_weight,300.0 kilogram,No match found
+61BMmDbNW8L.jpg,wattage,1500.0 watt,No match found
+61SjSrquWnL.jpg,item_weight,15.7 kilogram,No match found
+81WXYcWpDNL.jpg,item_weight,800.0 gram,No match found
+61EdTkkJAnL.jpg,item_weight,800.0 gram,No match found
+51jkcTsQHeL.jpg,item_weight,0.13 kilogram,No match found
+71czb5s-NxL.jpg,item_weight,40.0 gram,No match found
+81sghh1kUNL.jpg,item_weight,730.0 gram,No match found
+51k7GMS8dgL.jpg,item_weight,12.5 gram,12.5g
+51k7GMS8dgL.jpg,depth,21.0 centimetre,No match found
+51UUdyAqaZL.jpg,item_weight,10.0 gram,No match found
+71ywoKFO9lL.jpg,item_weight,"[17.0, 21.0] kilogram",No match found
+71q+au3LqHL.jpg,item_weight,"[13.0, 16.0] kilogram",No match found
+71ZiiJEYn5L.jpg,item_weight,"[13.0, 16.0] kilogram",No match found
+61O-9hl5ayL.jpg,item_weight,8.0 gram,No match found
+81KfxXADuIL.jpg,item_volume,250.0 millilitre,No match found
+71TzqIK-WgL.jpg,item_volume,250.0 millilitre,No match found
+81K-B8r5BsL.jpg,item_volume,250.0 millilitre,No match found
+7158PfqYzlL.jpg,item_volume,250.0 millilitre,No match found
+71BxBLZ06XL.jpg,item_volume,250.0 millilitre,No match found
+71GUWPpa+zL.jpg,item_volume,250.0 millilitre,No match found
+71GYnpwMuxL.jpg,item_volume,250.0 millilitre,No match found
+6153D7HI++L.jpg,item_weight,21.1 gram,No match found
+719q6wVfH7L.jpg,item_weight,776.58 gram,No match found
+7155YmXbrxL.jpg,item_weight,35.0 kilogram,No match found
+91m+wA05MDL.jpg,item_weight,200 gram,No match found
+717Xb-XhlxL.jpg,item_weight,1.5 kilogram,No match found
+719eCXnYG8L.jpg,maximum_weight_recommendation,240 kilogram,240kg
+51SxHQR55hL.jpg,item_weight,960 gram,No match found
+81NSyNfKwHL.jpg,item_weight,10 ounce,No match found
+810ryosCrBL.jpg,wattage,60.0 watt,No match found
+81jAGgqcprL.jpg,item_weight,50.0 pound,No match found
+71+75wp1BQL.jpg,item_volume,4.0 quart,No match found
+81rV4magOQL.jpg,item_volume,4.0 quart,No match found
+81I7yPIQRXL.jpg,item_volume,4.0 quart,No match found
+71AcfRPe4ML.jpg,item_weight,0.423 ounce,No match found
+51dRl-DGzXL.jpg,item_weight,84200701.0 ounce,No match found
+71GWjF21cIL.jpg,item_weight,0.14 pound,No match found
+61FiMnTBJPL.jpg,item_weight,3.0 gram,No match found
+51v+SyNEojL.jpg,item_weight,24.0 gram,No match found
+81xEx2YLEKL.jpg,item_weight,300.0 gram,300 G
+91k8WfFJKFL.jpg,item_weight,199.0 gram,No match found
+81wg1ednG8L.jpg,item_weight,22.0 gram,No match found
+31UmFlrQMDL.jpg,wattage,2.4 watt,No match found
+516DgZz4h1L.jpg,item_weight,25.0 gram,No match found
+81UdkupMS5L.jpg,item_weight,200.0 kilogram,No match found
+81pJRjDdKWL.jpg,item_weight,4.0 ton,No match found
+71BszUAOVeL.jpg,voltage,110.0 volt,No match found
+71BszUAOVeL.jpg,wattage,60.0 watt,No match found
+61zyJdPYp8L.jpg,item_weight,9.2 pound,9.2L
+61MMxSMDSnL.jpg,item_weight,5.78 ounce,5.78 oz
+71aSE8GfbQL.jpg,voltage,250.0 volt,No match found
+71vCZl9YsoL.jpg,item_weight,585.0 gram,585g
+51h158W09aL.jpg,item_weight,9.0 gram,No match found
+712C6JW0heL.jpg,item_weight,35.0 gram,No match found
+71Gg3AbMgWL.jpg,item_weight,200.0 gram,No match found
+719duvKDOzL.jpg,item_weight,200.0 gram,No match found
+71Ys7cCIZQL.jpg,item_weight,200.0 gram,No match found
+71xLmDGNG7L.jpg,item_weight,2000.0 milligram,000m
+71s7dJmtEsL.jpg,item_weight,2000.0 milligram,No match found
+71Svyb9HpEL.jpg,voltage,230.0 volt,No match found
+716eknov7+L.jpg,voltage,"[11.0, 17.0] volt",No match found
+71HMCudrCOL.jpg,voltage,18.0 volt,No match found
+61yX+n1ZMYL.jpg,item_weight,1000 milligram,No match found
+81OADShP8gL.jpg,item_weight,280.0 gram,No match found
+51fVq92ErcL.jpg,item_weight,3.6 gram,No match found
+71xAWk0XsnL.jpg,item_weight,9.82 gram,9.82g
+71IY2xT4jJL.jpg,item_weight,1.25 kilogram,No match found
+61FgU1udKrL.jpg,item_weight,35.0 kilogram,No match found
+71VpfZW1SLL.jpg,item_weight,2.0 ounce,No match found
+81qqZn5YUkL.jpg,item_weight,265.0 gram,No match found
+71VMb+D0c-L.jpg,item_weight,3.17 ounce,No match found
+61XhSckZ44L.jpg,item_weight,750.0 gram,No match found
+71AnpuM4GTS.jpg,item_weight,16.0 kilogram,No match found
+71BOruH-uEL.jpg,item_weight,2023.0 ounce,No match found
+71lLoq0s+JL.jpg,item_weight,179.0 kilogram,No match found
+812lr7CRloL.jpg,wattage,250.0 watt,No match found
+81YEhrtinRL.jpg,item_weight,280.0 gram,No match found
+713ItVv9dBL.jpg,item_weight,2.82 ounce,No match found
+81msQqEHvkL.jpg,item_weight,2.82 ounce,No match found
+51kPmvIK17L.jpg,item_weight,1000.0 gram,No match found
+71im-qgSuNL.jpg,item_weight,24.5 kilogram,5 KG
+614aBp6QwxL.jpg,item_weight,6.9 gram,No match found
+71VtVp8FCxL.jpg,maximum_weight_recommendation,270 pound,No match found
+412yk16tNVL.jpg,item_weight,200 millilitre,No match found
+4106TRNhGwL.jpg,maximum_weight_recommendation,285 pound,285L
+61mtruRlylL.jpg,item_weight,200 gram,No match found
+71MbYieuadL.jpg,item_weight,1.59 ounce,No match found
+81CpQaQQ2WL.jpg,item_weight,3.4 gram,3.40g
+81X+rcXk3wL.jpg,item_weight,3.2 gram,No match found
+81PgvYJUh8L.jpg,item_weight,3.2 gram,No match found
+810eXVEJZ6L.jpg,item_weight,0.41 kilogram,0.41KG
+61bh39XwruL.jpg,maximum_weight_recommendation,65.0 ton,No match found
+61-hjAWHgXL.jpg,item_weight,95.6 gram,No match found
+61Rq6zd5cGL.jpg,item_weight,220.0 gram,220g
+71hUVgmX05L.jpg,item_weight,2.0 ounce,No match found
+71scZ1a0PKL.jpg,item_weight,0.93 kilogram,No match found
+61n5QMpPFwL.jpg,item_weight,21116.0 ton,No match found
+71vdEjoPA9L.jpg,item_weight,382.2 gram,No match found
+71N-odnV1OL.jpg,item_weight,85.0 ton,No match found
+61TEY5m2GgL.jpg,wattage,50.0 watt,No match found
+81arbJffdPL.jpg,wattage,50.0 watt,No match found
+71ZmYw6CTYL.jpg,wattage,50.0 watt,No match found
+7136MqXmKCL.jpg,wattage,50.0 watt,No match found
+71JQ5jxcFUL.jpg,wattage,50.0 watt,No match found
+91mAaKY+tkL.jpg,wattage,50.0 watt,No match found
+717AMtZbXbL.jpg,voltage,120.0 volt,No match found
+71gvsL8zlUL.jpg,item_weight,88.0 ounce,No match found
+71TjRQeA5LL.jpg,item_weight,25.0 gram,No match found
+81z7P2gwixL.jpg,item_weight,0.88 ounce,No match found
+71Edx6LSxlL.jpg,voltage,"[220.0, 250.0] volt",No match found
+61ETboRFtwL.jpg,item_weight,14.0 gram,No match found
+7164gBo7pIL.jpg,item_weight,4.0 ounce,No match found
+51lkLsVVJEL.jpg,item_weight,8.0 ounce,No match found
+71-49YiwCdL.jpg,item_weight,4.0 ounce,No match found
+510xjPqPekL.jpg,item_weight,6.5 gram,6.5g
+71zDKHJ9KwL.jpg,item_weight,35.0 gram,No match found
+61OrBpekpSS.jpg,wattage,600.0 watt,No match found
+61nvpKZkEeL.jpg,item_weight,7 ounce,No match found
+61auEGee5PL.jpg,item_weight,200 gram,200g
+61m+YZC-Y1L.jpg,item_weight,200 gram,No match found
+71xKWiyY7hS.jpg,item_weight,284 gram,No match found
+51+Nlfuj0kL.jpg,item_weight,10 ounce,No match found
+61ihd4f5upL.jpg,item_weight,0.65 kilogram,No match found
+8180lCAlYaL.jpg,item_weight,0.1 gram,No match found
+61r7Vx4HOKL.jpg,wattage,42.0 watt,No match found
+51BbDAFIyLL.jpg,item_weight,1.0 gram,No match found
+71olNwJozHL.jpg,item_weight,174.0 gram,174g
+71w4aIH8Q4L.jpg,item_weight,950.0 gram,No match found
+51+K7AR590L.jpg,item_weight,32.0 gram,No match found
+81mCWNX3v8L.jpg,item_weight,725.0 gram,No match found
+71FFDr0ZNSL.jpg,item_weight,2.7 gram,No match found
+61BGKRq2UyL.jpg,wattage,18.0 watt,No match found
+61HykAloCmL.jpg,item_weight,18.5 gram,185 g
+71lUKpOx3RL.jpg,item_weight,135.0 ounce,No match found
+61m2NlKkpAL.jpg,item_weight,2.29 ounce,2.29 oz
+61vpGT+2PjL.jpg,item_weight,"[1.0, 2.0] gram",No match found
+615svlFid7L.jpg,wattage,3.0 horsepower,No match found
+71242FFd6tL.jpg,item_weight,"[7.0, 25.0] kilogram",No match found
+71cBwKE6JgL.jpg,item_weight,3.0 ounce,No match found
+61zxxVgB4xL.jpg,item_weight,7.0 pound,No match found
+31IzA4qnQML.jpg,item_volume,100.0 millilitre,400 m
+81FTlPvmusL.jpg,item_weight,8600.0 gram,No match found
+71F49txsC1L.jpg,item_weight,15.3 gram,15.3g
+91p1UNmCN+L.jpg,voltage,2.0 volt,No match found
+71zg2mEURtL.jpg,voltage,12.0 volt,No match found
+715w2NfWfaL.jpg,voltage,12.0 volt,No match found
+71rf8-Ri2QL.jpg,item_volume,1.76 fluid ounce,No match found
+814mTOj4yVL.jpg,item_volume,1.76 fluid ounce,No match found
+81urmTQqvjL.jpg,item_volume,1.76 fluid ounce,No match found
+81-L7gQc41L.jpg,item_volume,50.0 fluid ounce,No match found
+81mQoBEUa+L.jpg,item_volume,1.76 fluid ounce,No match found
+71VKh+g-rvL.jpg,item_weight,0.14 ounce,0.14 ounce
+61gOJt1TGiL.jpg,wattage,0.75 watt,No match found
+51NRvNR4b8L.jpg,wattage,0.75 watt,No match found
+71rBXe0Dz5L.jpg,wattage,60.0 watt,No match found
+81rYCpY2LML.jpg,item_weight,150.0 gram,No match found
+715TpQt6W+L.jpg,item_weight,10.0 gram,No match found
+71T4Y+l+2NL.jpg,item_weight,10.0 gram,No match found
+71cuQqw9xQL.jpg,item_weight,10.0 gram,No match found
+81X+Z2K-KRL.jpg,item_weight,1.0 kilogram,No match found
+6103+YwyRPL.jpg,wattage,750.0 watt,No match found
+51vcuDgYTlL.jpg,item_weight,5.5 milligram,No match found
+61ubO35QGFL.jpg,wattage,22.5 watt,No match found
+71MFJQIqwSL.jpg,item_weight,100 gram,No match found
+6177BJL5URL.jpg,item_weight,100 gram,No match found
+81lSvS+dOVL.jpg,item_weight,100 gram,100g
+61tJh2acH+L.jpg,item_weight,23.0 kilogram,No match found
+912t8Ax7QmL.jpg,item_weight,100 gram,No match found
+61QJWjxxIjL.jpg,item_weight,62 gram,No match found
+51qXSptnJwL.jpg,item_weight,2 gram,No match found
+81W5v-M7z8L.jpg,item_weight,2.7 kilogram,No match found
+51XFwp2FvjL.jpg,item_weight,900 gram,No match found
+51XXeiqPWPL.jpg,item_weight,900 gram,No match found
+61X55lcRUaL.jpg,item_weight,2.1 gram,2.1g
+51lU0fJtiQL.jpg,item_volume,1.69 fluid ounce,No match found
+81TDU8LEXZL.jpg,item_volume,1.69 fluid ounce,No match found
+71pSWm0KUjL.jpg,item_volume,1.69 fluid ounce,No match found
+71pElEeQIXL.jpg,item_volume,1.69 fluid ounce,No match found
+818FyPbEQtL.jpg,item_weight,120.0 gram,No match found
+51IO9sPn3NL.jpg,item_weight,750.0 gram,No match found
+619FsVtSDIL.jpg,item_weight,100.0 gram,190gram
+71lRHgLYsnL.jpg,item_weight,60.0 gram,No match found
+61QleiqxcxL.jpg,item_weight,150.0 kilogram,No match found
+61Hxou9XK3L.jpg,item_weight,300.0 gram,No match found
+71L9CCykvzL.jpg,item_weight,50.0 gram,No match found
+61XZB7Es+XL.jpg,item_weight,185.0 gram,No match found
+51G9MFJLoYL.jpg,item_weight,40.0 gram,No match found
+71nNTLLDjxL.jpg,item_weight,37.0 gram,No match found
+91+5plCsRxL.jpg,item_weight,56.0 gram,No match found
+91MhqMKy6fL.jpg,item_volume,8.0 fluid ounce,No match found
+71CteQL4iVL.jpg,wattage,1080.0 horsepower,No match found
+61rAVhH+TcL.jpg,item_weight,226.0 gram,No match found
+61Lh+DaAq3L.jpg,item_weight,2.0 gram,No match found
+712W+AtSVAL.jpg,item_weight,340.0 gram,No match found
+81hvBjMZFhL.jpg,item_weight,340.0 gram,No match found
+71OrsHMlaTL.jpg,item_weight,340.0 gram,340g
+71L-uSvGuCL.jpg,item_weight,340.0 gram,No match found
+71lVUeMCeuL.jpg,item_weight,340.0 gram,No match found
+61dYG9+RUzL.jpg,item_weight,340.0 gram,No match found
+81Pqhbbn-jL.jpg,item_weight,80 gram,No match found
+61z7x4rG7KL.jpg,item_weight,60 gram,No match found
+61ncXtwqqkL.jpg,item_weight,80 gram,No match found
+61382WP6wjL.jpg,item_weight,80 gram,No match found
+618hJEiL2oL.jpg,item_weight,1 kilogram,No match found
+61sDQFZqpWL.jpg,item_weight,50 gram,No match found
+71e4Hqs1INL.jpg,item_weight,2.3 kilogram,No match found
+81Ln3KXUpNL.jpg,item_weight,347 gram,No match found
+812plZU9GrL.jpg,item_weight,347 gram,No match found
+91-ewnMkY0L.jpg,item_weight,552 gram,No match found
+81YeQspDQIL.jpg,item_weight,552 gram,No match found
+713zyVRNccL.jpg,item_weight,552 gram,No match found
+71kGrHosgPL.jpg,item_weight,4.0 gram,No match found
+81u1AoLGMbL.jpg,item_weight,270.0 gram,No match found
+41TEd+8R3vL.jpg,item_weight,78.0 gram,No match found
+81ed4jI0HeL.jpg,item_weight,200.0 milligram,No match found
+61XTszHwNXL.jpg,item_weight,1300.0 milligram,No match found
+81zYXx9cvSL.jpg,item_weight,1300.0 milligram,No match found
+61axXXu7H7L.jpg,item_weight,5.0 kilogram,No match found
+51f2HADG6cL.jpg,wattage,4.0 watt,No match found
+61ycW+iZrmL.jpg,item_weight,24.0 milligram,No match found
+71YZ-KoI+PL.jpg,item_weight,24.0 milligram,No match found
+71E-hAiLbDL.jpg,item_weight,24.0 milligram,20 M
+71n+PjUSO4L.jpg,item_weight,24.0 milligram,No match found
+71nxzeYZb6L.jpg,item_weight,24.0 milligram,No match found
+61SZm0CtjDL.jpg,item_weight,30 gram,No match found
+51ln6BP9WmL.jpg,item_weight,45.0 gram,No match found
+71DkTTee-IL.jpg,item_weight,10.0 gram,No match found
+61GhtcIF-qL.jpg,item_weight,0.22 pound,0.22 L
+71B5WoSjnvL.jpg,item_weight,7.0 ounce,No match found
+71-zCpEj1qL.jpg,item_weight,1000.0 microgram,No match found
+81BGkNhNSBL.jpg,item_weight,1000.0 microgram,1000M
+71ySmmO4EJL.jpg,item_weight,1000.0 microgram,No match found
+817tXv3r8BL.jpg,item_weight,1000.0 microgram,No match found
+810Na9YhX0L.jpg,item_weight,1000.0 microgram,No match found
+61loXH5tnfL.jpg,item_weight,100.0 gram,No match found
+61cvqR5ljmL.jpg,item_weight,500.0 gram,No match found
+61hl5FhLapL.jpg,item_weight,1.1 pound,No match found
+61mwrLWyBgL.jpg,item_weight,"[135.0, 150.0] kilogram",No match found
+71CE2IDHBhL.jpg,wattage,22.0 kilowatt,No match found
+71T2r3Q3MsL.jpg,item_weight,330.0 pound,No match found
+71E5gwO9VlL.jpg,item_weight,14.0 gram,No match found
+81gtzl-n4RL.jpg,item_weight,2.7 gram,No match found
+714E1rkmJdS.jpg,item_weight,"[5.0, 11.0] kilogram",No match found
+61uRP9TrzgL.jpg,item_weight,"[5.0, 11.0] kilogram",No match found
+71BIrL6v+-L.jpg,item_weight,20.7 kilogram,No match found
+716qUzSp+GL.jpg,item_weight,6.0 gram,No match found
+81QaHqJlk4L.jpg,item_volume,100.0 litre,No match found
+71mTAlTYPkL.jpg,item_volume,1913.0 decilitre,No match found
+71b587Q02qL.jpg,item_volume,100.0 millilitre,No match found
+61J5YmUIJaL.jpg,item_weight,26.0 gram,No match found
+61raKHGO6wL.jpg,item_weight,0.41 kilogram,No match found
+71OTlklzaqL.jpg,item_weight,0.7 kilogram,0.7kg
+81QhmfP1KuL.jpg,item_weight,500.0 milligram,No match found
+71WmBRfDgpL.jpg,item_weight,87 gram,No match found
+51MtXM9EthL.jpg,item_weight,500 gram,500 Gram
+41ixUvO0yyL.jpg,item_weight,789 gram,No match found
+81KksDySJJS.jpg,item_weight,45 gram,No match found
+61lOJAhbcIL.jpg,item_weight,250 gram,No match found
+61hVqgi+7VL.jpg,item_weight,250 gram,250 g
+61QbBZkLnfL.jpg,item_weight,250 gram,No match found
+515BZIVCpcL.jpg,item_weight,250 gram,No match found
+71afq2Kye7L.jpg,item_weight,3.5 pound,No match found
+81EXdLS8h-L.jpg,item_weight,3.5 pound,No match found
+81izMNELoEL.jpg,item_weight,3.5 pound,No match found
+61T+RG7U+rL.jpg,item_weight,200.0 gram,200 G
+41v3PeFdxNL.jpg,item_weight,7 gram,No match found
+710W9hYK+wL.jpg,item_weight,5.1 pound,No match found
+51Cd+lg-fRL.jpg,voltage,7.2 volt,No match found
+61EDDQy6oCL.jpg,item_weight,6.04 ounce,6.04 Ounce
+81DyBOeniPL.jpg,item_weight,180.0 gram,No match found
+71hbj+z9snL.jpg,item_weight,15.0 gram,No match found
+71mTcuXaSkL.jpg,item_weight,33.0 gram,No match found
+61TojWY-C4L.jpg,item_weight,150.0 gram,150g
+616VlaROYVL.jpg,item_weight,1500.0 milligram,No match found
+81qglRJsSCL.jpg,item_weight,100.0 milligram,No match found
+81Z5pJ+KdQL.jpg,item_weight,300.0 milligram,300 m
+81ugxtysqwL.jpg,item_weight,1500.0 milligram,No match found
+71ow+wr-WxL.jpg,item_weight,75.0 microgram,No match found
+71Qyb84P7pL.jpg,item_weight,75.0 microgram,No match found
+51vKOZrUuWL.jpg,item_weight,124.0 gram,124g
+714N8ChLW2L.jpg,item_weight,30.8 pound,No match found
+81tyRejHAoL.jpg,item_weight,88.0 gram,No match found
+61Q1WniHY7L.jpg,wattage,30.0 watt,No match found
+612blo+TdmL.jpg,wattage,100.0 watt,No match found
+7156NqPf4UL.jpg,wattage,100.0 watt,No match found
+71W-7z79UXL.jpg,item_weight,500.0 gram,500g
+71OEmk050TL.jpg,voltage,48.0 volt,No match found
+71GplQHvFHL.jpg,voltage,5.0 volt,No match found
+41ox7q1GfeS.jpg,item_weight,1.1 kilogram,No match found
+71XofISRPKL.jpg,item_weight,335.0 gram,No match found
+81XQQ9GZ6JL.jpg,item_weight,300.0 gram,No match found
+81DHNf2tAqL.jpg,item_weight,1000.0 kilogram,0 KG
+713jzNEUB-L.jpg,item_weight,15.0 kilogram,No match found
+919iohKOj3L.jpg,wattage,6.0 watt,No match found
+919iohKOj3L.jpg,voltage,30.0 volt,No match found
+51srFClApSS.jpg,item_weight,90.0 gram,No match found
+812nFRKc3ZL.jpg,item_weight,14.0 kilogram,No match found
+71ol5lnXxEL.jpg,item_weight,1000.0 gram,No match found
+416elBjUq+L.jpg,item_weight,80.0 gram,No match found
+71xiI3nSZXL.jpg,item_weight,260 gram,260g
+81BBTJ2EKQL.jpg,item_weight,100 gram,100G
+61jL314WH-L.jpg,maximum_weight_recommendation,25 kilogram,25 Kg
+61tbe7Mv9gL.jpg,maximum_weight_recommendation,10 kilogram to 25 kilogram,No match found
+71oH5VSC0SL.jpg,item_weight,300 gram,No match found
+619cPZMqL7L.jpg,item_weight,3 gram,No match found
+71dLgqAP2oL.jpg,item_weight,3 gram,No match found
+71bhljDcpCL.jpg,item_weight,2.25 gram,No match found
+91PpW85bF2L.jpg,item_weight,200 gram,No match found
+51vQP-j5FCL.jpg,item_weight,250 gram,250g
+61BUjgmlyJL.jpg,item_weight,500 gram,500 GRAM
+618l4mIrQ-L.jpg,item_weight,20 kilogram,20kg
+31vXMcB9+oL.jpg,item_weight,100 gram,No match found
+61B7TGhqTBL.jpg,item_weight,1 gram,No match found
+712e3Ow6vHL.jpg,item_weight,20.0 gram,No match found
+51YfTCUszCL.jpg,item_weight,15.5 gram,No match found
+51YfTCUszCL.jpg,depth,20.5 centimetre,No match found
+61ZbG2IrjEL.jpg,item_weight,23.0 gram,No match found
+81TTiqQu4CL.jpg,item_weight,4.5 gram,4.5g
+512o5+oehqL.jpg,wattage,1080.0 horsepower,No match found
+81d3G1swzjL.jpg,item_weight,14 kilogram,No match found
+81VgtZjprtL.jpg,item_weight,14 kilogram,No match found
+51Mdsk5W9KL.jpg,item_weight,9 gram,No match found
+81XSbNecTKL.jpg,item_weight,320 gram,No match found
+71TZDC-+1+L.jpg,item_weight,5.8 gram,No match found
+71vRukoFT3L.jpg,item_weight,5.8 gram,5.8G
+51NUferrVrL.jpg,item_weight,0.0 pound,No match found
+61JI3Ux9fkL.jpg,item_weight,2.0 gram,No match found
+61SidPhzVeL.jpg,wattage,750.0 watt,No match found
+61Aky4kqZjL.jpg,wattage,750.0 watt,No match found
+61Aky4kqZjL.jpg,voltage,220.0 volt,No match found
+61HF-lj-xxL.jpg,item_weight,125.0 gram,No match found
+615zQrb2jnL.jpg,item_weight,1688.0 gram,No match found
+61ZCwCtSyYL.jpg,maximum_weight_recommendation,10 kilogram,10kg
+81uget9aH4L.jpg,item_weight,470 gram,No match found
+91QvLtiYaBL.jpg,item_weight,454 gram,No match found
+81lazo6sxlL.jpg,item_weight,4.0 ounce,No match found
+81fYO+HP5QL.jpg,voltage,0.5 volt,No match found
+91a0S3O4vjL.jpg,item_weight,1023.0 gram,No match found
+91EGQ9c8ZKL.jpg,item_weight,1023.0 gram,No match found
+81L97-vmovL.jpg,item_weight,1023.0 gram,No match found
+61OY6I21l2L.jpg,item_weight,1.0 kilogram,No match found
+61oE2AbTBJL.jpg,item_weight,4.3 gram,43 g
+61IycVGaGYL.jpg,wattage,1.5 watt,No match found
+81UUjhSL3hL.jpg,item_volume,29.0 litre,No match found
+91rg-a-2KLL.jpg,item_weight,28.0 gram,No match found
+61pbZX8RWOL.jpg,item_weight,0.56 kilogram,0.56 kg
+61J3MWhOgkL.jpg,voltage,"[110.0, 120.0] volt",No match found
+712SjLhzLjL.jpg,item_weight,48.5 pound,48.5 L
+91uasSuDsPL.jpg,wattage,5.0 watt,No match found
+61+9ydEPoUL.jpg,item_weight,340.0 gram,No match found
+71FNkB0z0oL.jpg,item_weight,1.0 pound,No match found
+815v8KW9I5L.jpg,item_weight,1.9 ounce,No match found
+61pRSkSyrRL.jpg,item_weight,0.0 gram,No match found
+61IGXibQJ7L.jpg,item_weight,170.0 gram,No match found
+61pZJrFLlJL.jpg,wattage,18.0 watt,No match found
+61pZJrFLlJL.jpg,voltage,"[220.0, 240.0] volt",No match found
+6157bXX60ZL.jpg,wattage,18.0 watt,No match found
+A1PQf0EkwGL.jpg,item_weight,500.0 gram,No match found
+81MYup14oCL.jpg,item_weight,"[1.0, 2.0] ounce",No match found
+41l56m8szkL.jpg,item_weight,1.0 ounce,No match found
+61SpC5WTqbL.jpg,wattage,1.0 watt,No match found
+61djLYFdToL.jpg,item_weight,440.0 gram,No match found
+71ZacuHPHZL.jpg,item_weight,"[0.0, 5.0] kilogram",No match found
+7195HI0YTAL.jpg,wattage,60.0 watt,No match found
+7195HI0YTAL.jpg,voltage,"[110.0, 240.0] volt",No match found
+51+LEueO6CL.jpg,item_volume,32.0 fluid ounce,No match found
+714BQnts3aL.jpg,item_weight,8.0 kilogram,No match found
+61Ew-XV+XvL.jpg,item_weight,"[2003.0, 2015.0] gram",No match found
+71VRNz+xdoL.jpg,item_weight,28.0 gram,No match found
+81bh8V1E5RL.jpg,item_weight,28.0 gram,No match found
+81ltdzAXYeL.jpg,item_weight,28.0 gram,No match found
+71CwP3MDK7L.jpg,item_weight,28.0 gram,No match found
+81lDNT696WL.jpg,item_weight,28.0 gram,No match found
+81lPV8WdPrL.jpg,item_weight,28.0 gram,No match found
+81+wdVmkRML.jpg,item_weight,28.0 gram,No match found
+61lRU47uDOL.jpg,item_weight,1200.0 milligram,200m
+61iIIIJgG4L.jpg,item_weight,14.4 gram,14.4G
+71pf6ScB6FL.jpg,item_weight,2.64 pound,2.64l
+51n+S9E2EqL.jpg,item_weight,479.0 gram,No match found
+61IpSN+6D+L.jpg,item_weight,7.2 gram,7.2g
+51RC2aljehL.jpg,item_volume,200.0 millilitre,No match found
+61mUjf8sIOL.jpg,item_volume,200.0 millilitre,200 m
+61mXWwwuPDL.jpg,item_volume,200.0 millilitre,No match found
+71upK248nIL.jpg,item_weight,8.0 gram,No match found
+71k2aqkwBxL.jpg,item_weight,65.0 gram,No match found
+71hjL1YabUL.jpg,item_weight,8.0 ounce,No match found
+81G9UtMbsVL.jpg,item_weight,65.0 gram,No match found
+71OlBG16YCL.jpg,item_weight,65.0 gram,No match found
+81V-DVwBSrL.jpg,item_weight,0.0 gram,No match found
+71A24t5jD9L.jpg,item_weight,3.3 pound,No match found
+615JUgjdV9L.jpg,item_weight,44.8 gram,No match found
+51PmNOrp99L.jpg,item_weight,19.3 gram,No match found
+61SWDkMKBTL.jpg,item_weight,20.9 gram,20.9g
+61FLrSjJQkL.jpg,voltage,12.0 volt,No match found
+81l4+2gUN2L.jpg,item_volume,8.0 fluid ounce,No match found
+81EYKmYozFL.jpg,item_volume,8.0 fluid ounce,No match found
+71h54G+5RZL.jpg,wattage,60.0 watt,No match found
+81yJRIOWHnL.jpg,wattage,100.0 watt,No match found
+51tmU-3epiL.jpg,item_weight,2.0 gram,No match found
+71S-DDhrNpL.jpg,item_weight,10.0 kilogram,No match found
+716Grew8-dL.jpg,maximum_weight_recommendation,60.0 pound,No match found
+71+tcjXooAL.jpg,item_weight,3.0 pound,No match found
+71Nb8PoJZzL.jpg,item_weight,5 gram,No match found
+71o3cW3xP1L.jpg,maximum_weight_recommendation,110 pound,No match found
+61Ylq01Fj-L.jpg,item_weight,34 gram,No match found
+81oFIUqa8iL.jpg,item_weight,1.5 kilogram,5 kg
+71E2ZDxcHWL.jpg,item_weight,0.96 kilogram,0.96 KG
+61PEAkAuauL.jpg,item_weight,50.0 gram,No match found
+71oDcYi4n3L.jpg,item_weight,50.0 gram,No match found
+512HzxZ+Z1L.jpg,item_weight,2.4 gram,2.4g
+71yNA-pzlWL.jpg,item_weight,15.0 gram,No match found
+71sFq5kPtEL.jpg,item_weight,180.0 gram,No match found
+81t4pZ0BJsL.jpg,item_weight,5.5 ounce,No match found
+71SF8GiKoWL.jpg,maximum_weight_recommendation,100 kilogram,100KG
+315q+CFH0DL.jpg,item_weight,1.5 gram,No match found
+61N8TzDVZ4L.jpg,item_weight,0.86 pound,No match found
+81yD42C2EYL.jpg,item_volume,25.0 litre,No match found
+71oZ0dk6OnL.jpg,item_weight,60.0 gram,No match found
+71cdLQsruxL.jpg,item_weight,567.0 gram,No match found
+81P9vG68I-L.jpg,item_weight,567.0 gram,No match found
+817oAKg5-eL.jpg,item_weight,567.0 gram,No match found
+71DNMGQjcHL.jpg,item_weight,567.0 gram,No match found
+81abO+P69UL.jpg,item_weight,368.0 gram,No match found
+61GNvP62caL.jpg,item_volume,0.4 litre,No match found
+61FhaxH0JbL.jpg,item_weight,149.0 gram,No match found
+61rd-43mVtL.jpg,item_weight,7.0 ounce,No match found
+91tIJOPHajL.jpg,item_weight,2.82 ounce,No match found
+51LKXHtbzbL.jpg,item_weight,9 gram,No match found
+71J4uIxWu9L.jpg,item_weight,7 ounce,No match found
+71sdvdmswnL.jpg,item_weight,58 gram,No match found
+71a0ApQ91gL.jpg,item_weight,0.7 kilogram,0.7KG
+71ppBZY0zEL.jpg,maximum_weight_recommendation,2.2 kilogram,No match found
+61-Lg0R2lUS.jpg,item_weight,156.0 gram,No match found
+81yHvneIdQL.jpg,maximum_weight_recommendation,3.0 ounce,No match found
+41NH8WgeBOL.jpg,voltage,10.8 volt,No match found
+91gkGOT35-L.jpg,item_weight,204.0 kilogram,No match found
+91ADo5ndaEL.jpg,item_weight,1.8 gram,No match found
+81tMCRwYZGL.jpg,item_weight,506.0 gram,No match found
+715++LcNseL.jpg,item_weight,96.5 gram,No match found
+61kdwY77JlL.jpg,wattage,70.0 watt,No match found
+71zIii5y+hL.jpg,item_weight,201306.0 gram,No match found
+71FKAb9pgXL.jpg,item_weight,3.0 gram,No match found
+61T3P7KPJ0L.jpg,item_weight,2.0 pound,No match found
+71lMmBP8kUL.jpg,item_volume,100.0 millilitre,No match found
+71cEaPfB1pL.jpg,item_weight,3.0 pound,No match found
+61ddzOv0rSL.jpg,item_weight,30.0 kilogram,No match found
+81VUT9BMZ4L.jpg,item_weight,9.4 gram,9.4g
+71ZqSLgEwAL.jpg,item_weight,25.0 gram,No match found
+71Rw0rSKYyL.jpg,item_weight,25.0 gram,No match found
+71c38TkEpgL.jpg,item_weight,11.25 kilogram,No match found
+71mqkW7oHBL.jpg,item_weight,6.1 gram,No match found
+51ZF71z4YNS.jpg,item_weight,16.8 gram,16.8g
+81jZUqZAgGL.jpg,item_weight,28.0 gram,No match found
+71u-oFZfdZL.jpg,wattage,240.0 watt,No match found
+71XmYwRrjhL.jpg,wattage,240.0 watt,No match found
+719rKIJHZvL.jpg,wattage,240.0 watt,No match found
+71KDFqKkNnL.jpg,wattage,240.0 watt,No match found
+71tWWgkVz4L.jpg,wattage,240.0 watt,No match found
+61fraEsD2PL.jpg,item_weight,150.0 gram,No match found
+61Enmrzq3TL.jpg,item_weight,150.0 gram,No match found
+718jtb5KJOS.jpg,item_weight,1.0 ton,No match found
+81fc-MLMqWL.jpg,item_weight,2.0 gram,No match found
+51NDqQf2yXL.jpg,item_weight,1800.0 gram,No match found
+81sD45OgTqL.jpg,item_weight,2.0 pound,No match found
+61LLE5kWCJL.jpg,item_weight,20.0 gram,20.0 g
+51sENedZESL.jpg,item_weight,13.0 gram,No match found
+71MI+Cf60UL.jpg,item_weight,5.5 pound,No match found
+71Bofj0amZL.jpg,item_weight,5.0 milligram,No match found
+71-t9F5FtaL.jpg,item_weight,72.0 gram,No match found
+61yH3Nsz4KL.jpg,item_weight,2 ounce,No match found
+814tTe50zIL.jpg,maximum_weight_recommendation,860 pound,860 L
+81A58hHr1mL.jpg,item_weight,50.0 gram,No match found
+81SQvTLJ04L.jpg,item_weight,200 gram,No match found
+816-h5BrlbL.jpg,item_weight,200 gram,No match found
+81PO-s0lK8L.jpg,item_weight,200 gram,No match found
+61ZSAo2NWKL.jpg,item_weight,37 kilogram,No match found
+71jyxDNqXbL.jpg,item_weight,12.2 gram,No match found
+61lE5VFIKVL.jpg,item_weight,80.0 milligram,No match found
+61ePec-vqyL.jpg,item_weight,80.0 milligram,No match found
+71c5E7K9b3L.jpg,item_weight,15.0 kilogram,No match found
+71BiVbuyXYL.jpg,item_weight,2.0 ounce,No match found
+91+tGTVrdKL.jpg,item_weight,600.0 gram,No match found
+91t7PPVdGCL.jpg,item_weight,600.0 gram,No match found
+9104zYbkndL.jpg,item_weight,600.0 gram,No match found
+61a9koe6-KL.jpg,item_weight,180.0 gram,200 G
+71c11uDwQzL.jpg,item_weight,563.0 gram,No match found
+715l5Koa3yL.jpg,item_weight,90.0 milligram,No match found
+717NOhwpOdL.jpg,item_weight,20.0 gram,No match found
+710mmppGjxL.jpg,item_weight,563.0 gram,No match found
+71BRpb-gXfL.jpg,item_weight,563.0 gram,No match found
+71EPE0wSdbL.jpg,item_weight,20.0 ounce,No match found
+813OpmOYe4L.jpg,item_weight,198.0 gram,No match found
+81940+4c1GL.jpg,item_weight,30.0 gram,No match found
+71eBllTykHL.jpg,item_weight,30.0 gram,No match found
+71yjttWcfCL.jpg,item_weight,525.0 gram,No match found
+71RzdvhAmsL.jpg,item_weight,525.0 gram,No match found
+71S6zr9oqyL.jpg,item_weight,525.0 gram,No match found
+61rwfYKIROL.jpg,item_weight,9.0 ounce,No match found
+61Jtmm2YrTL.jpg,item_weight,9.0 ounce,No match found
+61+MxCZlePL.jpg,voltage,48.0 volt,No match found
+51yfUJv1GuL.jpg,item_weight,400.0 milligram,400 m
+81bncStX8VL.jpg,item_volume,16.0 fluid ounce,No match found
+81E0ee1+vYL.jpg,item_volume,16.0 fluid ounce,No match found
+71p4Wrw9aHL.jpg,item_volume,16.0 fluid ounce,No match found
+71BgmMGgg5L.jpg,item_volume,16.0 fluid ounce,No match found
+71ruKYocvFL.jpg,item_weight,30.0 gram,No match found
+71sGR+aCsvL.jpg,item_weight,30.0 gram,No match found
+71Ks+QACYHS.jpg,item_weight,265.0 gram,No match found
+4109GKDQIvL.jpg,item_weight,270.0 gram,270g
+71Vzo2Tm+xL.jpg,item_weight,20.0 gram,No match found
+81FkXZu1JKL.jpg,item_weight,30.0 gram,No match found
+41hERh6+QSL.jpg,maximum_weight_recommendation,100 kilogram,100kg
+71p9NT6S+oL.jpg,maximum_weight_recommendation,100 kilogram,100kg
+51ZDmYjBs5L.jpg,item_weight,80 gram,No match found
+61nuiGZrPFL.jpg,item_weight,80 gram,No match found
+61hPGjg3TIL.jpg,item_weight,80 gram,No match found
+61dOx+t-eJL.jpg,item_weight,80 gram,No match found
+71qpChRGMaL.jpg,item_weight,80 gram,No match found
+819qumvzwjS.jpg,item_weight,2.2 pound,No match found
+71DuSLNxwIL.jpg,item_weight,2.2 pound,No match found
+718kf84KArL.jpg,item_weight,2.2 pound,No match found
+61pPOSAjAVL.jpg,item_weight,2.2 pound,No match found
+71fkFovzQzL.jpg,item_weight,1.0 ounce,No match found
+71sWRJYeSQL.jpg,item_weight,0.93 kilogram,No match found
+71A9Th6kL0L.jpg,wattage,65.0 watt,No match found
+61-oywTTsiL.jpg,wattage,50.0 watt,No match found
+61-oywTTsiL.jpg,voltage,220.0 volt,No match found
+71b4qPxCyUL.jpg,wattage,100.0 watt,No match found
+71FXzcQHjnL.jpg,voltage,110.0 volt,No match found
+71DJWKsLDaL.jpg,voltage,110.0 volt,No match found
+81hfpYrmMLL.jpg,item_weight,24.0 pound,No match found
+717ZmdjecdL.jpg,voltage,1.5 volt,No match found
+71EQ8sO8r6S.jpg,voltage,110.0 volt,No match found
+51nd5k5TgfL.jpg,wattage,12.0 watt,No match found
+718fQcag4xL.jpg,item_weight,290.0 gram,No match found
+71HstDkDNTL.jpg,item_weight,150.0 gram,No match found
+815hpJmgrHL.jpg,item_weight,3.5 ounce,No match found
+71rmIhmXX+L.jpg,item_weight,3.5 ounce,No match found
+819kGfWlbUL.jpg,item_weight,100 gram,No match found
+616qG7gFubL.jpg,item_weight,10.0 gram,No match found
+6193D7oZWcL.jpg,item_weight,11.0 gram,No match found
+71mtYuOIMBL.jpg,item_weight,15.6 gram,15.6g
+71A9ZQ-1GNL.jpg,item_weight,800.0 gram,No match found
+51z0bDmdh8L.jpg,item_weight,1000 milligram,No match found
+61xPV8oTd6L.jpg,item_weight,100 gram,No match found
+71jLZc0dPWL.jpg,item_weight,58.2 gram,58.2g
+71F8VoK83NL.jpg,item_weight,5.0 gram,No match found
+61bWJv-62hL.jpg,item_weight,65.0 gram,No match found
+51WwAHEvSDL.jpg,item_weight,33.0 gram,No match found
+71j81jNs+5L.jpg,item_weight,1.0 ton,No match found
+71rhdp9yCQL.jpg,item_weight,"[5.5, 10.0] kilogram",No match found
+61CaXvWQZeL.jpg,item_volume,2.0 litre,No match found
+71UxMILZyJL.jpg,wattage,550.0 watt,No match found
+71aakaw+bTL.jpg,wattage,550.0 watt,No match found
+41XKkkeQUDL.jpg,item_weight,7.5 gram,7.5g
+71LM6gA-dsL.jpg,item_volume,250.0 millilitre,1100 ML
+61JQQgD2p8L.jpg,item_weight,38.0 milligram,No match found
+51cTANWXL6L.jpg,item_weight,7.9 gram,No match found
+71taK37M3lL.jpg,item_weight,0.54 kilogram,0.54KG
+51lStBIjePL.jpg,item_weight,60.0 kilogram,No match found
+71pUtf3rnXL.jpg,item_volume,"[8.0, 12.0] fluid ounce",No match found
+71td3KOAo2L.jpg,item_weight,1.06 ounce,No match found
+61UzQObvTqL.jpg,item_weight,1.0 gram,No match found
+715CxG8vSxL.jpg,item_weight,1.06 ounce,No match found
+61GoGxVS9JL.jpg,item_weight,1.0 gram,No match found
+61Eo6GyeDKL.jpg,item_weight,1.06 ounce,No match found
+71hXBys4-SL.jpg,voltage,12.0 volt,No match found
+61+1MMMsvOL.jpg,item_weight,150.0 kilogram,No match found
+71hN2p-bpjL.jpg,item_weight,15.0 kilogram,No match found
+816usm7CyPL.jpg,voltage,50.0 volt,No match found
+81KFV4pDdTL.jpg,item_weight,600.0 gram,No match found
+81dV4HO4lQL.jpg,item_weight,1.05 milligram,No match found
+41PznKCmOrL.jpg,item_weight,350.0 milligram,No match found
+61q0rCM4KdL.jpg,item_weight,1.0 pound,No match found
+71sMbE7cO6L.jpg,item_weight,183.0 gram,183g
+61RYSRNYnJL.jpg,item_weight,90.0 gram,No match found
+61LxhHf5nIL.jpg,voltage,"[85.0, 265.0] volt",No match found
+61A9pJH9ilL.jpg,wattage,15.0 watt,No match found
+71Au8Ehc6jL.jpg,item_weight,38.6 pound,No match found
+71IqvjUsIqL.jpg,item_weight,6.8 kilogram,No match found
+71C1RWK1rjL.jpg,maximum_weight_recommendation,47.0 gram,No match found
+711ec6tuvzL.jpg,item_volume,100.0 millilitre,No match found
+913AUt2PsPL.jpg,item_weight,50.0 pound,No match found
+51nUHNzp5oL.jpg,item_weight,0.5 kilogram,No match found
+81RCFPY7VsS.jpg,item_weight,4.5 ounce,No match found
+81kDrM1R4WS.jpg,item_weight,4.5 ounce,No match found
+815ItNAU7kL.jpg,wattage,3.0 watt,No match found
+61xl3yZFNcL.jpg,item_weight,1.76 ounce,No match found
+51rSaUzVz0L.jpg,item_weight,19.0 gram,No match found
+71x9bCkX5hL.jpg,item_weight,360.0 gram,No match found
+7144gB89qRL.jpg,item_weight,850.0 milligram,No match found
+81hBY4J5F3L.jpg,maximum_weight_recommendation,300 kilogram,No match found
+61ftO4-wxrL.jpg,item_weight,0.73 kilogram,No match found
+613ZVDSpFGL.jpg,item_weight,100 gram,100g
+61byoKCmWJL.jpg,item_weight,200 gram,No match found
+611JJkwrY5L.jpg,item_weight,200 gram,No match found
+71QDwlpfc9L.jpg,item_weight,200 gram,No match found
+712u4UJbFIL.jpg,item_weight,200 gram,No match found
+611l4KG7muL.jpg,item_weight,200 gram,No match found
+61nd13Zd6BL.jpg,item_weight,40 gram,No match found
+61wmDXev4qL.jpg,item_weight,9.5 kilogram,No match found
+61Cg064naiL.jpg,item_weight,15.0 gram,No match found
+61fi6IcMppL.jpg,item_weight,15.0 gram,No match found
+61hbJOaRvqL.jpg,item_weight,15.0 gram,No match found
+61eT6zTdGhL.jpg,item_weight,6.0 gram,No match found
+71cAfOKHunL.jpg,item_weight,17.0 gram,No match found
+81dSfMazlTL.jpg,item_weight,10.0 gram,No match found
+71enMPeUq5L.jpg,item_weight,20.0 gram,No match found
+91UL92-HrbL.jpg,item_weight,300.0 pound,No match found
+617S-axbZNL.jpg,item_weight,18.0 pound,No match found
+71iBNn8Co2L.jpg,item_weight,200.0 milligram,200M
+61PaUBfgeRL.jpg,item_weight,200.0 milligram,No match found
+415gqGnlmwL.jpg,item_weight,1.0 ounce,No match found
+617YML9KymL.jpg,item_weight,200.0 milligram,No match found
+71vL1NCy0NL.jpg,item_weight,200.0 milligram,No match found
+81YrKcT8vFL.jpg,item_weight,200.0 milligram,No match found
+61bfNk2pvbL.jpg,maximum_weight_recommendation,3.0 ton,No match found
+716HMKH-9KL.jpg,item_weight,100.0 microgram,100 m
+81j2GiZV-IL.jpg,item_weight,20.0 pound,No match found
+41aQ2qyc6pL.jpg,item_weight,3.5 gram,No match found
+61MhTGvnoqL.jpg,item_weight,80.0 gram,No match found
+51meZFN7UIL.jpg,item_weight,1.7 kilogram,No match found
+71I3totusDL.jpg,item_volume,500.0 millilitre,No match found
+61vmYDOez4L.jpg,maximum_weight_recommendation,0.15 kilogram,No match found
+61vmYDOez4L.jpg,item_weight,0.15 kilogram,No match found
+51lCCgdmQ+L.jpg,voltage,7.4 volt,No match found
+513CiQIuuLL.jpg,voltage,7.4 volt,No match found
+513X5hxF1+L.jpg,voltage,7.4 volt,No match found
+51FLqJLAVpL.jpg,voltage,7.4 volt,No match found
+51UT6HgeglL.jpg,voltage,7.4 volt,No match found
+71xAtIxDbUL.jpg,item_weight,210.0 gram,No match found
+81xwDfspTGL.jpg,item_weight,290.0 gram,No match found
+618o4+fKHbL.jpg,item_weight,74.0 gram,No match found
+51-fpvYU3qL.jpg,item_weight,620.0 gram,620g
+51m2--S90qL.jpg,item_weight,6.0 gram,No match found
+71m9SCnmfQL.jpg,voltage,48.0 volt,No match found
+71wBB4VklwL.jpg,item_weight,5.0 pound,No match found
+51P75nDTtXL.jpg,item_weight,360.0 gram,No match found
+81+a+qSJQzL.jpg,item_weight,500.0 gram,No match found
+81XuXSLSA5L.jpg,item_weight,500.0 gram,No match found
+31bhp-kEEEL.jpg,item_weight,500.0 gram,No match found
+51YM+XNR14L.jpg,item_weight,100.0 gram,100g
+71oElnCL8CL.jpg,wattage,750.0 watt,No match found
+61y0I17Hp+S.jpg,item_weight,150 gram,No match found
+81Nhv4SMPbL.jpg,item_weight,850 gram,850 Gram
+61rZdpbCqwL.jpg,item_weight,23.49 kilogram,No match found
+71MHA0Z3qFL.jpg,item_weight,4.4 gram,No match found
+51g1bUR4zYL.jpg,item_weight,200 gram,No match found
+81ifC+wDasL.jpg,maximum_weight_recommendation,9 kilogram to 18 kilogram,No match found
+610-OJ2MbtL.jpg,item_weight,198 gram,No match found
+71QS1q8LeOL.jpg,item_weight,18 kilogram,18 kg
+71QS1q8LeOL.jpg,maximum_weight_recommendation,50 kilogram,50 kg
+81EjieCoRQL.jpg,maximum_weight_recommendation,2 kilogram,No match found
+713AO3diVNL.jpg,item_weight,340.0 gram,No match found
+61vZ2eyQ3hL.jpg,item_weight,12.3 gram,12.3g
+71zX7aMsdyL.jpg,item_weight,108.0 pound,No match found
+61iZ2CfgOoL.jpg,item_weight,7.1 gram,No match found
+71Hs1vDAT8L.jpg,item_weight,120.0 gram,No match found
+61AtNtWwrAL.jpg,item_weight,9.6 gram,9.6g
+4187Q95RIRL.jpg,item_weight,6.5 gram,No match found
+61ylRv-DyCS.jpg,item_weight,50.0 gram,50 GRAM
+61T-Saub0eL.jpg,item_weight,7.0 gram,No match found
+71cl-wvluOL.jpg,item_weight,260.0 gram,No match found
+61Xx6rOG+xL.jpg,item_weight,85.0 ton,No match found
+81KBBxuMneL.jpg,item_weight,5000.0 microgram,5000 M
+51xivvqZE4L.jpg,item_weight,"[0.0, 1.5] kilogram",No match found
+71xuICsqTzL.jpg,item_weight,5.1 kilogram,No match found
+81HlcwuYuYL.jpg,item_weight,200 gram,200g
+81+Y9iExgnL.jpg,maximum_weight_recommendation,400 pound,No match found
+71eQxSuDB7L.jpg,item_weight,4.0 pound,No match found
+61pBhQiHhyL.jpg,maximum_weight_recommendation,150 pound,50 l
+810akZL5VSL.jpg,item_weight,71788.0 ton,No match found
+71l2wDHI86L.jpg,item_weight,2.0 gram,No match found
+81z035aaQbL.jpg,item_weight,320.0 gram,No match found
+61pGLV+S94L.jpg,item_weight,8.5 gram,8.5g
+71WkYe-8LNL.jpg,item_weight,4.2 kilogram,No match found
+51R2np4lzGL.jpg,item_weight,5.0 gram,No match found
+61m3pGYsORL.jpg,item_weight,400.0 gram,400g
+71AyTdm6J1L.jpg,item_weight,2.8 gram,2.8g
+61e2JhqSyxL.jpg,item_weight,0.25 kilogram,No match found
+61oc9DBBrKL.jpg,maximum_weight_recommendation,60 kilogram,No match found
+715NEyBLKUL.jpg,maximum_weight_recommendation,30 kilogram,No match found
+411Zo6F-xgL.jpg,item_volume,200.0 millilitre,200 m
+61dOt6PmOpL.jpg,voltage,"[110.0, 240.0] volt",No match found
+81LiaoHr1yL.jpg,item_weight,18.0 gram,No match found
+71igpctDJEL.jpg,item_weight,4.9 gram,No match found
+51Y4CqX9PbL.jpg,item_weight,24.0 gram,No match found
+81wXsEADcWL.jpg,item_volume,100.0 millilitre,No match found
+61YeXRu2n9L.jpg,item_volume,100.0 millilitre,No match found
+61NXqZUUbZL.jpg,item_weight,10.0 kilogram,No match found
+71kCK3+dYRL.jpg,item_weight,9.0 milligram,No match found
+71vv0twY46L.jpg,item_weight,285.0 gram,No match found
+71p4gUM+6eL.jpg,item_weight,130.0 pound,No match found
+51CqZIkIkoL.jpg,item_weight,6.0 ounce,No match found
+61hVqzMDJEL.jpg,item_weight,4.0 gram,No match found
+51SQ+ivMx1L.jpg,voltage,110.0 volt,No match found
+812TxwY2dbL.jpg,item_weight,400.0 gram,400g
+51eaeqjydzL.jpg,item_weight,400.0 gram,No match found
+61Hx3k5VQUL.jpg,item_weight,400.0 gram,No match found
+51AIl06xErL.jpg,item_weight,400.0 gram,No match found
+61hxZRRWIoL.jpg,item_weight,7.1 gram,No match found
+71KmhBftcdL.jpg,item_weight,12.0 ounce,No match found
+61KvskXFpJL.jpg,item_weight,2.0 pound,No match found
+81fzKK3+R3L.jpg,item_weight,10.0 gram,No match found
+81TSAd3X0xL.jpg,item_weight,200.0 gram,No match found
+41MCgr8R6kL.jpg,item_weight,80.0 ounce,No match found
+41ET6IcSscL.jpg,item_weight,8.0 ounce,No match found
+71IllnXceqL.jpg,item_weight,8.0 ounce,No match found
+71naSaXWd0S.jpg,voltage,120.0 volt,No match found
+61YdzcDSACL.jpg,item_weight,5.5 gram,No match found
+51vDRFdK3rL.jpg,item_weight,25.5 gram,25.5g
+51Ry653jT-L.jpg,item_weight,8.0 gram,No match found
+61itWDDPQnL.jpg,item_weight,23.0 gram,No match found
+81SC6oU1pfL.jpg,item_weight,5 kilogram to 20 kilogram,20kg
+715OIITUtFL.jpg,item_weight,400 gram,400g
+510BsozCCyL.jpg,item_weight,100 gram,No match found
+71XaJCWgpSL.jpg,item_weight,4.5 gram,No match found
+61HfERFOr1L.jpg,item_weight,1.9 pound,No match found
+81wyXLbNYUL.jpg,item_weight,80.0 gram,No match found
+61GvLKWbGhL.jpg,item_weight,1.8 gram,1.8g
+61yKefcSKvL.jpg,item_weight,31.0 gram,No match found
+71D9DYuSnnL.jpg,item_weight,30.0 pound,No match found
+51fubdgGc+L.jpg,item_weight,3.6 gram,No match found
+619LOkYI7nL.jpg,item_weight,1000.0 milligram,No match found
+71dAjlzpasL.jpg,item_weight,1000.0 milligram,No match found
+71+gfsln56L.jpg,item_weight,1000.0 milligram,No match found
+71W1zLLUj5L.jpg,item_weight,1.75 pound,No match found
+51ihtiM8ZLL.jpg,item_weight,13.0 gram,No match found
+71CFqzGL22L.jpg,item_weight,78.0 gram,No match found
+61NYLhwwOfL.jpg,item_weight,222.0 milligram,222m
+71Ry08oppHL.jpg,item_weight,50.0 gram,500g
+61cRJ84LSQL.jpg,item_weight,5.0 gram,5.0g
+415xCOO9MjL.jpg,item_weight,11.0 gram,No match found
+81YmELdFV4L.jpg,wattage,250.0 watt,No match found
+71+4NoYfm3L.jpg,voltage,12.0 volt,No match found
+8113D1Za6mL.jpg,item_weight,1.1 pound,1 pound
+8182ZO2zLuL.jpg,item_weight,13.0 kilogram,No match found
+51n+myRW7FL.jpg,item_weight,2.45 pound,No match found
+71FuYwawNgL.jpg,item_weight,28.0 gram,No match found
+71A0kFgxkbL.jpg,item_weight,11.0 pound,No match found
+51NKIUQGpHL.jpg,item_weight,89.0 gram,No match found
+612ZAdXg8tL.jpg,item_weight,12.0 ounce,No match found
+61wvmnBOzlL.jpg,item_weight,12.0 ounce,No match found
+41U81jvU+6L.jpg,wattage,3.0 watt,No match found
+51ZOmcxhTyL.jpg,item_weight,20.0 gram,No match found
+61I4iI4gbWL.jpg,item_weight,20.0 gram,No match found
+51D6tb21WEL.jpg,item_weight,2.5 kilogram,No match found
+81tYOaDS9YL.jpg,item_volume,50.0 millilitre,No match found
+61AiRXtGakL.jpg,item_weight,0.8 pound,0.8L
+71nRp1HayAL.jpg,maximum_weight_recommendation,7.0 kilogram,No match found
+81zIJoDLxRL.jpg,item_weight,10.0 ounce,No match found
+81YN8sVTBrL.jpg,item_weight,65.0 gram,No match found
+815HrOLObIL.jpg,item_weight,65.0 gram,No match found
+81R07uwa0cL.jpg,item_weight,65.0 gram,No match found
+71Jj6oqqruL.jpg,item_weight,100.0 pound,No match found
+715Ye1VvzpL.jpg,item_weight,40.0 pound,No match found
+61O+mU9r2iL.jpg,item_weight,100.0 gram,No match found
+71j8VWVeoXL.jpg,item_weight,25.0 kilogram,No match found
+71NI-EkZcsL.jpg,item_weight,47.0 gram,No match found
+71zvXfQdJvL.jpg,wattage,100.0 watt,No match found
+71SnDFW7SAL.jpg,wattage,850.0 watt,No match found
+61afe7W7xtS.jpg,wattage,60.0 watt,No match found
+71fAmhVUm6L.jpg,item_weight,3 gram,No match found
+81r9BSvcPqL.jpg,item_weight,3 gram,No match found
+61q135tn4AL.jpg,item_weight,500 gram,No match found
+61wcFhN662L.jpg,item_weight,500 gram,No match found
+41h90lBYR9L.jpg,item_weight,3.52 ounce,No match found
+41mgnZyexKL.jpg,item_weight,14.7 gram,No match found
+41jkwvRiqLL.jpg,item_weight,100 gram,No match found
+416QE5iftvL.jpg,item_weight,100 gram,No match found
+61ovpjd2GyL.jpg,item_weight,150 gram,No match found
+71vXHv-rssL.jpg,item_weight,300 gram,No match found
+711tZjuh38L.jpg,item_weight,300 gram,No match found
+517eELKIAdL.jpg,item_weight,100 gram,No match found
+71ItD3Peu7L.jpg,item_weight,100 gram,No match found
+610iSIXHktS.jpg,item_weight,450 gram,No match found
+71wwBIYKorL.jpg,item_weight,2 kilogram,No match found
+A185mqMFjNL.jpg,item_weight,3 kilogram to 10 kilogram,No match found
+910E1Ms483L.jpg,item_weight,2 kilogram,No match found
+519yF2ZXqYL.jpg,item_volume,30.0 millilitre,No match found
+719udYtpxIL.jpg,item_weight,165.0 kilogram,No match found
+61vZdkBbb2S.jpg,voltage,220.0 volt,No match found
+71sCnOs-z7L.jpg,item_weight,1.0 kilogram,No match found
+71atnq9QR2L.jpg,item_weight,57.0 kilogram,No match found
+61+r9k+TqyL.jpg,item_weight,150.0 gram,No match found
+615eBJ0xkDL.jpg,item_weight,150.0 gram,No match found
+81YVInwmKAL.jpg,item_weight,200.0 gram,200g
+71B7YjgG2AL.jpg,item_weight,200.0 gram,No match found
+51xGtZU+F0L.jpg,voltage,110.0 volt,No match found
+61YD6MMM5YL.jpg,voltage,220.0 volt,No match found
+51BvCIHcgSL.jpg,voltage,220.0 volt,No match found
+61UYjkclzaL.jpg,item_weight,0.4 kilogram,0.4KG
+61cWMElHoUL.jpg,voltage,5.5 volt,No match found
+71x2tLxf86L.jpg,wattage,40.0 watt,No match found
+61xu7f6H3vL.jpg,wattage,18.0 watt,No match found
+71e0NqMEyPL.jpg,wattage,40.0 watt,No match found
+81zUdmBNl+L.jpg,wattage,"[0.0, 40.0] watt",No match found
+71qoMhhZZJL.jpg,wattage,18.0 watt,No match found
+719JtXsuxbL.jpg,item_weight,300.0 gram,No match found
+41aOaPoPFGL.jpg,voltage,11.55 volt,No match found
+61vWsUPJlYL.jpg,item_weight,40.0 gram,No match found
+613FIo8VaRL.jpg,item_weight,40.0 gram,No match found
+61ygMPLHycL.jpg,voltage,500.0 volt,No match found
+61zsm9Wx24L.jpg,voltage,4.0 volt,No match found
+71x+J7kqPNL.jpg,wattage,250.0 watt,No match found
+71x+J7kqPNL.jpg,voltage,36.0 volt,No match found
+81EiMKtaldL.jpg,voltage,230.0 volt,No match found
+71e6iAjRwBL.jpg,item_weight,95.0 gram,No match found
+710WybAX84L.jpg,item_weight,85.0 gram,No match found
+81PNG2CST4L.jpg,item_weight,4.0 kilogram,No match found
+61MU5VQZHsL.jpg,item_weight,250 gram,No match found
+81ZnTQ+4ncL.jpg,item_weight,250 gram,No match found
+61EBQhBGK5L.jpg,item_weight,250 gram,No match found
+71Cz5aaU8PL.jpg,item_weight,250 gram,250g
+81Ae5KkxGzL.jpg,item_weight,250 gram,No match found
+81M84GPLP5L.jpg,item_weight,250 gram,No match found
+61Z+l8yFGwL.jpg,item_weight,250 gram,No match found
+51O0ye8zO5L.jpg,item_weight,10 gram,No match found
+611oloLakiL.jpg,item_weight,246 gram,No match found
+81K0IMm-V-L.jpg,item_weight,246 gram,No match found
+51rP1QoA8GL.jpg,item_weight,25.0 gram,No match found
+81tu5D7bQcL.jpg,item_weight,300.0 pound,No match found
+71gvWCSRWxL.jpg,maximum_weight_recommendation,600 pound,No match found
+81p1waR0IkL.jpg,maximum_weight_recommendation,600 pound,600 L
+71qUdfhi5JL.jpg,item_weight,5.0 ounce,No match found
+61kFrfEYqVL.jpg,item_weight,0.4 kilogram,0.4KG
+71lxQhhfdeL.jpg,item_weight,2 gram,No match found
+81f3mtIX9CL.jpg,item_weight,1000 gram,No match found
+71mHMQpsdBL.jpg,item_weight,0 gram,No match found
+71fXCyi1l7L.jpg,item_weight,4 ounce,No match found
+61kHw6hzQoL.jpg,item_weight,12 gram,No match found
+61abRXOW+FS.jpg,maximum_weight_recommendation,130 kilogram,130Kg
+61MqTXo3eEL.jpg,item_weight,1.0 pound,No match found
+717Gy4UgMJL.jpg,item_weight,500.0 milligram,No match found
+71e1Pukw9qL.jpg,item_weight,500.0 milligram,No match found
+61KLVdGwDDL.jpg,item_weight,500.0 milligram,No match found
+71Iku3v-joL.jpg,item_weight,0.21 kilogram,No match found
+61Vh1IUjyuL.jpg,voltage,230.0 volt,No match found
+71XvGuCEK8L.jpg,item_weight,10.0 kilogram,No match found
+71BtuagQxdL.jpg,wattage,108.0 watt,No match found
+61YyqGPcdlL.jpg,item_weight,0.4 kilogram,No match found
+619vWrUUOPL.jpg,item_weight,68.0 gram,No match found
+51CSHgI8y-L.jpg,item_weight,16.5 gram,16.5g
+61QD88wk9ML.jpg,item_weight,3.0 gram,No match found
+61wF0UJ-DOL.jpg,item_weight,3.0 ounce,No match found
+81gl+nmjrHL.jpg,item_weight,4.0 kilogram,No match found
+61JdVKrGNNL.jpg,item_weight,"[135.0, 150.0] kilogram",No match found
+71O+Gs5Ot-L.jpg,item_weight,23.0 gram,23.0g
+81haW8xJglL.jpg,item_weight,350.0 gram,350g
+81hQkVPB-IL.jpg,voltage,18.0 volt,No match found
+71qX7HjnhuL.jpg,wattage,50.0 watt,No match found
+71VCglUkSfL.jpg,item_weight,159.0 pound,No match found
+81x7UxPuGBL.jpg,item_weight,"[5.0, 15.0] kilogram",No match found
+51Xfq-wnHrL.jpg,item_weight,2.3 gram,2.3g
+71PRr+BrE6L.jpg,item_weight,20.2 gram,No match found
+61kD9l+pplL.jpg,item_weight,290.0 gram,No match found
+615O3N2v6VL.jpg,item_weight,7.0 kilogram,No match found
+51Y3V+Kp6EL.jpg,item_weight,3.0 kilogram,No match found
+61q886NFZmL.jpg,item_weight,100.0 gram,100 g
+51wKCgMTJUL.jpg,item_weight,49.0 kilogram,No match found
+71Xip5fJIPL.jpg,item_weight,15.0 kilogram,No match found
+71ejuUHIrVS.jpg,item_weight,11.3 kilogram,11.3KG
+81ZnQNZeAwL.jpg,item_weight,8 gram,No match found
+8113HHv8hkL.jpg,item_weight,63 gram,No match found
+71XSg5wDoDL.jpg,item_weight,63 gram,No match found
+71tmuIDBuXL.jpg,item_weight,63 gram,No match found
+717AkUAaNFL.jpg,item_weight,3.53 ounce,No match found
+71OUzL7vEjL.jpg,item_weight,14.5 gram,No match found
+71cAGBAnm2L.jpg,item_weight,3.0 pound,No match found
+61tUoise1oL.jpg,item_weight,100.0 gram,No match found
+41mPYy4f2+L.jpg,item_weight,14.9 gram,14.9g
+81+4ptezr9L.jpg,item_weight,3.5 kilogram,5 Kg
+51uT0FP+GlL.jpg,item_weight,3.9 gram,3.9 g
+71W1xIlx93L.jpg,item_weight,294.0 gram,No match found
+71806QopfpL.jpg,voltage,48.0 volt,No match found
+61o1GyqdaLL.jpg,voltage,48.0 volt,No match found
+919+gTcaxWL.jpg,item_weight,100.0 gram,100g
+71NO1ngDSnL.jpg,item_weight,10.0 gram,No match found
+61-oZDwZKwL.jpg,item_weight,300.0 gram,300 G
+81TUMDKE6LL.jpg,item_weight,2800.0 gram,No match found
+71Z6JGtQraL.jpg,item_weight,52.0 gram,No match found
+51LAblvJjfL.jpg,item_weight,611.0 gram,611g
+71p6D1cE+AL.jpg,voltage,230.0 volt,No match found
+4129Wt-CRVL.jpg,item_weight,1.76 gram,1.76g
+613KOY4FwSL.jpg,item_weight,100.0 gram,No match found
+71MBnW0WCYL.jpg,item_weight,10.0 gram,No match found
+81DdUKDd+rL.jpg,voltage,36.0 volt,No match found
+61vPBdYakaL.jpg,item_weight,454.0 gram,No match found
+71DgqoMjnlL.jpg,item_weight,20.1 gram,20.1g
+71IF9r2K7FL.jpg,item_volume,630.0 fluid ounce,No match found
+61bz+0XXtLL.jpg,item_weight,5.0 gram,No match found
+71LIBFetXAS.jpg,item_weight,8.0 pound,No match found
+71tEIulPnnL.jpg,item_weight,169.0 gram,No match found
+71OygbHBYZL.jpg,item_weight,1.0 ounce,No match found
+71yyB9GWUcL.jpg,item_weight,0.48 kilogram,0.48KG
+61+tbsxQghL.jpg,item_weight,20 gram,No match found
+6166Nd5vs1L.jpg,item_weight,20 gram,No match found
+61XwyPqxv-L.jpg,item_weight,20 gram,No match found
+81jF0EvKcCL.jpg,item_weight,20 gram,No match found
+61TlEXOgoqL.jpg,item_weight,20 gram,No match found
+612AevAH33L.jpg,item_weight,20 gram,No match found
+61A9Fa9TeUS.jpg,item_weight,400 gram,No match found
+616osSRWcmL.jpg,item_weight,20.0 gram,No match found
+71tU92GEt-L.jpg,item_weight,20.0 gram,No match found
+61WsHQSpt7L.jpg,item_weight,20.0 gram,No match found
+61+hDXKbAoL.jpg,item_weight,20.0 gram,No match found
+61HA7FxPiCL.jpg,item_weight,20.0 gram,No match found
+71Z+GtmIxdL.jpg,item_weight,20.0 gram,No match found
+81RM-5F2WPL.jpg,item_weight,6.0 pound,No match found
+71j3rBPck-L.jpg,maximum_weight_recommendation,20.0 ounce,No match found
+711vUKfUPML.jpg,item_weight,403.0 gram,No match found
+81qpK25yu7L.jpg,item_weight,300.0 gram,No match found
+51lLIFTPADL.jpg,item_weight,12.0 ounce,No match found
+71gTUbHVi1L.jpg,item_weight,12.0 ounce,No match found
+61J7cLdxcGL.jpg,item_weight,12.0 ounce,No match found
+71FBlxuDvFS.jpg,item_weight,2.2 pound,No match found
+6156zf2vLES.jpg,item_weight,28.0 gram,No match found
+71WPthvpGeL.jpg,item_weight,28.0 gram,No match found
+61K7DYB2zSL.jpg,item_weight,1.0 ounce,No match found
+61-1w6a3VIL.jpg,item_volume,0.051 fluid ounce,No match found
+61biD94pAqL.jpg,item_weight,1.23 pound,No match found
+61+fCedEefL.jpg,maximum_weight_recommendation,7.0 ton,No match found
+61wyzcCNwKL.jpg,item_weight,50.0 gram,No match found
+61ztOU1jkOL.jpg,item_weight,50.0 gram,No match found
+51fLP0lKSaL.jpg,item_weight,500 gram,No match found
+71HhlhK3fyL.jpg,item_weight,500 gram,No match found
+617E9ugyK3L.jpg,item_weight,288 pound,No match found
+61-eoUJh5PL.jpg,item_weight,3.5 gram,No match found
+71kOCq7EdLL.jpg,item_weight,26.0 gram,No match found
+51l4Gl63zIL.jpg,item_weight,120 gram,120g
+61ExQTySGRS.jpg,item_weight,200 gram,No match found
+81zRpGI1udL.jpg,item_weight,8.0 gram,No match found
+91L5X8k5NVL.jpg,item_weight,4 pound,No match found
+71fjsji87wL.jpg,maximum_weight_recommendation,60 pound,60 l
+71UpuPhwGVL.jpg,item_weight,800 gram,800 g
+81w9soNyNzL.jpg,item_weight,800 gram,No match found
+71K6YtzjwtL.jpg,item_weight,2 kilogram,No match found
+719gye5MVkS.jpg,item_weight,159 pound,No match found
+71c6nVOCT8L.jpg,item_weight,62 ounce,No match found
+81VhK5KBNeL.jpg,item_weight,8 ounce,No match found
+817nt15IkUL.jpg,item_weight,8 ounce,No match found
+710XkCxhBrL.jpg,item_weight,8.2 kilogram,2 kg
+61vRojEbYVL.jpg,item_weight,8.2 kilogram,No match found
+41eFdXAEUQL.jpg,item_weight,40.0 gram,No match found
+41LQ6o3865L.jpg,item_weight,40.0 gram,No match found
+41gJuhXncfL.jpg,item_weight,40.0 gram,No match found
+41Tcq7kqQWL.jpg,item_weight,40.0 gram,No match found
+41UhWaT+aqL.jpg,item_weight,40.0 gram,No match found
+616anKj65OL.jpg,item_weight,3.0 gram,No match found
+91eaAHq1EJL.jpg,item_weight,600.0 gram,No match found
+9113Nt-rtEL.jpg,item_weight,600.0 gram,No match found
+81noDsaS4FL.jpg,item_weight,137.54 gram,No match found
+81oRuFKaTeL.jpg,item_weight,137.54 gram,No match found
+81BUXzGy4zL.jpg,item_weight,17.54 gram,No match found
+819fo-lhWcL.jpg,item_weight,0.15 milligram,0.18 m
+51PmAj3FwvL.jpg,item_weight,300.0 gram,300 g
+71Mbq7loBpL.jpg,item_weight,2.3 kilogram,No match found
+A1a2ZfDLgnL.jpg,voltage,"[220.0, 240.0] volt",No match found
+71HwGeJfD2L.jpg,item_weight,3.6 kilogram,3.6 kg
+71B+n0fRicL.jpg,item_weight,3.0 kilogram,No match found
+41dhDXbf2cL.jpg,item_weight,4.0 gram,No match found
+614t0C7H07L.jpg,item_weight,2.6 gram,No match found
+61qWRK1zjVL.jpg,voltage,220.0 volt,No match found
+61qWRK1zjVL.jpg,wattage,60.0 watt,No match found
+61MlKxjxJGL.jpg,wattage,13.0 watt,No match found
+61Sfpw2erIL.jpg,item_weight,"[11.0, 25.0] kilogram",No match found
+51kW-eLnp2L.jpg,item_weight,"[11.0, 25.0] kilogram",No match found
+31oVbuPtMYL.jpg,wattage,35.0 watt,No match found
+41wYMjYGJ3L.jpg,wattage,35.0 watt,No match found
+713AwfXvfGL.jpg,item_weight,0.0 milligram,No match found
+81Q3i9GcvZL.jpg,item_weight,25.0 microgram,No match found
+71CWMnM7eCL.jpg,item_weight,500.0 gram,No match found
+81I75yv+9eL.jpg,voltage,240.0 volt,No match found
+71W07jC92qL.jpg,item_weight,4.6 gram,4.6 g
+61ybpOhijrL.jpg,wattage,36.0 watt,No match found
+710k9qKJYyL.jpg,wattage,"[20.0, 40.0] watt",No match found
+A1hj1olf8SL.jpg,voltage,"[220.0, 240.0] volt",No match found
+61Y5ghoY9AL.jpg,item_weight,29.0 gram,No match found
+71aHigDSWtL.jpg,item_weight,986.0 gram,No match found
+711qXjCp-5L.jpg,item_weight,3.5 gram,No match found
+61i0rWxLF1L.jpg,item_weight,"[8.0, 15.0] kilogram",No match found
+51ckl4RaK3L.jpg,item_weight,13.8 gram,No match found
+81YtuzREVCL.jpg,item_weight,70.0 kilogram,No match found
+61+yfSyNAdL.jpg,item_weight,70.0 kilogram,No match found
+71fdZo1B2rL.jpg,item_weight,0.54 pound,No match found
+71gFmudTntL.jpg,item_weight,500 gram,No match found
+51I1tTgS1tL.jpg,item_weight,80.0 gram,No match found
+611Qwai10eL.jpg,item_weight,9.0 gram,No match found
+61cmmUbi8BL.jpg,item_weight,150.0 gram,150g
+71Ckim00Y0L.jpg,item_volume,200.0 millilitre,200m
+71Zqu9hPSfL.jpg,maximum_weight_recommendation,2.0 gram,No match found
+61G6+HBAq5L.jpg,item_weight,33.0 gram,No match found
+71qRIPGyKuL.jpg,item_weight,1.8 pound,No match found
+81UrTs-rWSL.jpg,item_weight,6.0 gram,No match found
+81IbCkBBmQL.jpg,item_weight,6.0 gram,No match found
+81gxoYusPWL.jpg,item_weight,240.0 gram,No match found
+81271EKtwuL.jpg,wattage,250.0 watt,No match found
+71mUDyyidPL.jpg,item_weight,"[15.02, 15.88] gram",No match found
+71dN07KCklL.jpg,item_weight,200.0 milligram,200m
+61UGXIVCxlS.jpg,item_weight,200.0 milligram,200 m
+71mArCteD9L.jpg,item_weight,400.0 gram,No match found
+31qgso-5l6L.jpg,item_weight,19.0 gram,No match found
+61WW-dVYckL.jpg,item_weight,5.0 gram,No match found
+71yOaQ3Sx3L.jpg,item_weight,700.0 gram,No match found
+71x+VqFP6AL.jpg,wattage,0.352 kilowatt hour,No match found
+61lIcqZEQ0L.jpg,wattage,234.233 kilowatt hour,No match found
+81+tdG6q26L.jpg,wattage,7.4 kilowatt,No match found
+71gEBSVe+bL.jpg,item_weight,168.0 gram,No match found
+91W4lpRpOvL.jpg,item_weight,5.92 ounce,No match found
+81Cj8ecM7IL.jpg,item_weight,20 gram,411.24 GRAM
+61r-kcPG28L.jpg,item_weight,186 gram,186 gram
+71V66iX4icL.jpg,item_weight,500 gram,No match found
+81pGgCrJpHL.jpg,item_weight,3000 milligram,000MG
+61c2VvsjvsL.jpg,item_weight,5 gigabyte,No match found
+51FTWKrU24L.jpg,item_weight,40 gram,No match found
+71mSwkMuB3L.jpg,maximum_weight_recommendation,135 kilogram,135 KG
+61sve5sPg8L.jpg,maximum_weight_recommendation,298 pound,No match found
+71T9MATCrHL.jpg,wattage,60.0 watt,No match found
+61QEceaEPhL.jpg,wattage,60.0 watt,No match found
+715ZbqmED0L.jpg,wattage,5.0 watt,No match found
+71dkSdWQ9jS.jpg,item_weight,2.0 kilogram,No match found
+71ZR8oUjRdL.jpg,item_weight,14.0 gram,No match found
+61TAwc8B5xL.jpg,item_weight,2000.0 gram,No match found
+71ZIXnNexUL.jpg,item_weight,1.0 gram,No match found
+617EVKlxH-L.jpg,wattage,50.0 watt,No match found
+61FR9X56B2L.jpg,item_weight,4.0 pound,No match found
+81VtK9O2BIL.jpg,item_weight,4.0 pound,No match found
+61jB2ROUKnL.jpg,item_weight,234.0 gram,No match found
+71CGSSoxDDL.jpg,voltage,36.0 volt,No match found
+71xPo9MsfgL.jpg,item_weight,3000 gram,No match found
+81zNirJpd0L.jpg,item_weight,1.8 ounce,No match found
+71ZuZ0bVyUL.jpg,item_weight,1.8 ounce,No match found
+81pkF+I8feL.jpg,item_weight,350 gram,No match found
+91838QxheBL.jpg,item_weight,250 gram,No match found
+81FKFn0SOeL.jpg,item_weight,100 gram,No match found
+61+OA7NyyTL.jpg,item_weight,340 gram,No match found
+61HqKshduRL.jpg,item_weight,18 gram,No match found
+613WKQXR-lL.jpg,item_weight,1.6 gram,1.6g
+519MmC+dZML.jpg,item_weight,19.8 gram,No match found
+71gTznViQOL.jpg,item_weight,6.0 gram,No match found
+81r7XgX8A-L.jpg,item_weight,"[30.0, 55.0] pound",No match found
+71zPKflK2eL.jpg,item_weight,2700.0 gram,No match found
+71jB4coyNoL.jpg,item_weight,2700.0 gram,No match found
+61C3itwl8jL.jpg,item_weight,8.31 gram,8.31g
+51bVPCdc5-L.jpg,item_weight,60.0 kilogram,No match found
+51fotxQxv5L.jpg,item_weight,175.0 kilogram,No match found
+71zlTB-4bGL.jpg,item_weight,3680.0 gram,No match found
+61iArMQz76L.jpg,item_weight,3.3 gram,No match found
+61Kd3HMo0DL.jpg,item_weight,0.4 kilogram,0.4KG
+718of6wcSYL.jpg,item_weight,1100.0 gram,No match found
+71nvpFSvFWL.jpg,item_weight,7.27 pound,7.27 l
+91m3IkKSOsS.jpg,item_weight,1.5 pound,No match found
+81VlxRwldOL.jpg,item_weight,680.0 gram,680 gram
+71Addjbg8ZL.jpg,item_weight,5.4 gram,5.4g
+81zSa+v8gCL.jpg,item_weight,15.0 gram,No match found
+71TdlapTaaL.jpg,item_weight,30.0 gram,30 g
+6131ZKhPcNL.jpg,item_weight,3505.0 gram,No match found
+71Te8uVsJbL.jpg,item_weight,0.38 kilogram,No match found
+81RTpoQFe8L.jpg,item_weight,200.0 gram,No match found
+81S7zdo7TcL.jpg,item_weight,175.0 gram,No match found
+71fRJIythFL.jpg,item_weight,200.0 gram,No match found
+71ByuFYG1VL.jpg,item_weight,200.0 gram,No match found
+71DYy8bRTTL.jpg,item_weight,200.0 gram,No match found
+71PoZ-MrbML.jpg,item_weight,200.0 gram,No match found
+71UmdePHDKL.jpg,item_weight,175.0 gram,No match found
+71OFESBykJL.jpg,item_weight,175.0 gram,No match found
+81y+Fa0NvKS.jpg,item_weight,27.0 pound,No match found
+91tYvbpccLL.jpg,item_weight,100.0 gram,100 g
+91RkPSrYxTL.jpg,item_weight,13.5 ounce,No match found
+81GhS6+OaXL.jpg,item_weight,13.5 ounce,No match found
+716w9xPkpbL.jpg,item_weight,70.0 gram,No match found
+71KEKdqH8UL.jpg,item_weight,70.0 gram,No match found
+61NjET8HXqL.jpg,item_weight,70.0 gram,No match found
+713Dny4HtNL.jpg,voltage,48.0 volt,No match found
+41xgsCwVcvL.jpg,item_weight,85.0 gram,No match found
+71MSFX5CExL.jpg,item_weight,48.8 gram,No match found
+A1TP-ldH7CL.jpg,item_weight,218.0 gram,No match found
+512Bph1OuuL.jpg,item_weight,266 gram,No match found
+512Bph1OuuL.jpg,height,46.5 millimetre,46.5 mm
+81CeBuqC5KL.jpg,item_weight,960 gram,No match found
+617coQcwHFL.jpg,item_weight,340 gram,No match found
+81tVBRZwKgL.jpg,item_weight,1 gram,No match found
+61qbeOSXk5L.jpg,item_weight,100 gram,100g
+515TRHFSX5L.jpg,item_weight,20 kilogram,No match found
+41SKPKjfxkL.jpg,item_weight,180 gram,No match found
+91F8QRfLxdL.jpg,item_weight,2 gram,No match found
+91fnTU2wf2L.jpg,item_weight,1.5 kilogram,No match found
+61VSrpuzwcL.jpg,item_weight,100 gram,No match found
+61i9CJVcb4L.jpg,item_weight,100 gram,No match found
+71upkNOqUGL.jpg,item_weight,100 gram,No match found
+31ZtLoCMAnL.jpg,item_weight,10 gram,No match found
+51IoFuSP2JL.jpg,item_weight,10 gram,No match found
+61mTIBT-2ML.jpg,item_weight,125.0 gram,No match found
+81Gfx7p-CLL.jpg,item_weight,366.8 gram,No match found
+81KgHD0MjfL.jpg,item_weight,1.5 gram,No match found
+81vY014vLdL.jpg,item_weight,1.5 gram,No match found
+71+YdYYkQGL.jpg,item_weight,1.8 gram,No match found
+815xkoseFwL.jpg,item_weight,1.5 gram,No match found
+81IdwiTY-JL.jpg,item_weight,1.5 gram,No match found
+71qgJuuTRnL.jpg,item_weight,2.4 pound,2.4l
+51D9Vd2WOuL.jpg,item_weight,55.0 gram,No match found
+411BOKT7lsL.jpg,item_weight,55.0 gram,No match found
+71Vd50ZeISL.jpg,item_weight,1.8 kilogram,No match found
+71e6sLPEiqL.jpg,item_weight,294.0 gram,No match found
+81a+NgbQf7L.jpg,item_weight,7.0 gram,No match found
+61nWwqkLBRL.jpg,item_weight,0.95 pound,No match found
+71PmPYmOudL.jpg,voltage,2.0 volt,No match found
+71rNu99zqaL.jpg,voltage,2.0 volt,No match found
+71NyirmPQaL.jpg,wattage,100.0 watt,No match found
+51x2KsO54-L.jpg,item_weight,50.0 gram,No match found
+71qBaKTyAJL.jpg,voltage,20.0 volt,No match found
+71cSwFRsxoL.jpg,voltage,"[120.0, 127.0] volt",No match found
+71EuIcvC-gL.jpg,voltage,"[120.0, 127.0] volt",No match found
+81lyAj5AhhL.jpg,item_weight,50.0 gram,No match found
+71bnEdpQbBL.jpg,item_weight,50.0 gram,No match found
+71sz9PNGGaL.jpg,item_weight,50.0 gram,No match found
+81gQv3cVIxL.jpg,item_weight,2.5 gram,2.5 g
+91U-i1+czCL.jpg,item_weight,150 gram,No match found
+713pl7SrzxL.jpg,item_weight,150 gram,No match found
+71Y1UJ6Lf-L.jpg,item_weight,150 gram,No match found
+61-QcjtfJUL.jpg,item_weight,150 gram,No match found
+71fmBHybZRL.jpg,item_weight,120 gram,No match found
+71gRjaty+5L.jpg,item_weight,120 gram,No match found
+71EvdN4uO8L.jpg,item_weight,250 gram,No match found
+713OCvlCtfL.jpg,item_weight,11.0 pound,No match found
+61qLMRZ5MsL.jpg,item_weight,28.095238095238095 ounce,No match found
+71ul9hGmntL.jpg,item_weight,11.0 kilogram,No match found
+71sKJFQyGSL.jpg,item_weight,8.96 kilogram,96kg
+71joTTOy8YL.jpg,voltage,"[100.0, 240.0] volt",No match found
+613vJuRJn3L.jpg,item_weight,24.0 ounce,No match found
+415tEaJr8xL.jpg,item_weight,12.0 ounce,No match found
+71NDncEcX+L.jpg,item_weight,12.0 ounce,No match found
+61EQH+caxhL.jpg,item_weight,12.0 ounce,No match found
+61z+AMVdt5L.jpg,item_weight,12.0 ounce,No match found
+51LNDLJQ7nL.jpg,item_volume,1.0 ounce,No match found
+61MfyE+nTQL.jpg,item_weight,390.0 gram,No match found
+713aV0yTCAL.jpg,item_weight,60.0 gram,No match found
+61BUy5f7beL.jpg,item_weight,20 kilogram,20kg
+71TW+E9oiLL.jpg,item_weight,1.9 kilogram,1.90 kg
+61tVkqZzZtL.jpg,item_weight,100 gram,No match found
+61Ym8HnKWBL.jpg,item_weight,100 gram,No match found
+61kdXQI7SdL.jpg,item_weight,100 gram,No match found
+61MlADpwDfL.jpg,item_weight,100 gram,No match found
+61tBF9EisyL.jpg,item_weight,3.2 kilogram,No match found
+71DRsAGjE9L.jpg,item_weight,1.72 pound,No match found
+712Gy7rkIdL.jpg,item_weight,9.1 gram,9.1 g
+81rB+gb7UZL.jpg,item_weight,500.0 gram,500 g
+81jj-vF5p+L.jpg,item_weight,500.0 gram,500g
+617BQ7os0zL.jpg,item_weight,2.1 kilogram,No match found
+81Bvny-Io+L.jpg,item_weight,115.0 gram,No match found
+71WsT7ZTcoL.jpg,item_volume,50.0 millilitre,No match found
+7146pzdSl-L.jpg,item_volume,50.0 millilitre,No match found
+71l3XKJTfTL.jpg,item_volume,50.0 millilitre,No match found
+71vu4ao7W8L.jpg,item_volume,50.0 millilitre,No match found
+71yEFSK7idL.jpg,item_volume,50.0 millilitre,No match found
+61AniafoUNL.jpg,item_volume,50.0 millilitre,No match found
+619Gugue9oS.jpg,maximum_weight_recommendation,26.0 ton,No match found
+41NJVeEAKqL.jpg,wattage,10.0 watt,No match found
+71y9Tt9YnpL.jpg,wattage,10.0 watt,No match found
+71zrwf3C-vL.jpg,wattage,10.0 watt,No match found
+81+0uWW2YSL.jpg,wattage,10.0 watt,No match found
+51In7U3sK+L.jpg,item_weight,50.0 milligram,50 M
+619TbdH8SqL.jpg,item_weight,50.0 milligram,No match found
+71mH+pHNFYL.jpg,item_volume,100.0 gallon,No match found
+81-YLgZ1DYL.jpg,item_weight,25.0 gram,No match found
+81P5Kg3V+oL.jpg,item_weight,10.0 gram,No match found
+81-4NXS8EDL.jpg,item_weight,25.0 gram,No match found
+61e6rWe2PEL.jpg,item_weight,31.0 gram,No match found
+51SlrY7ISzL.jpg,item_weight,6.9 gram,6.9g
+71Pa2HQbcgL.jpg,voltage,48.0 volt,No match found
+81bITc7TE0L.jpg,voltage,48.0 volt,No match found
+81bITc7TE0L.jpg,wattage,750.0 watt,No match found
+61L9mBkXlLS.jpg,item_weight,91200.0 gram,No match found
+61UhAMaVLJL.jpg,item_volume,2.0 millilitre,No match found
+71+SBz4va1L.jpg,item_volume,2.0 millilitre,No match found
+71z0GsTP1OL.jpg,item_volume,1.69 fluid ounce,No match found
+71Js+juCbCL.jpg,item_volume,1.69 fluid ounce,No match found
+71DTHyFbuIL.jpg,item_weight,8.8 pound,8.8l
+51QJLriRIdL.jpg,item_weight,2000.0 gram,No match found
+81chB+X-kjL.jpg,item_weight,4.78 pound,4.78l
+815Ws+Mt-qL.jpg,item_weight,9.0 ounce,No match found
+71AMinte94L.jpg,item_weight,10.0 ounce,No match found
+61WjaA+vdgL.jpg,item_weight,2.0 gram,No match found
+71JeoHuadrL.jpg,item_weight,100.0 gram,No match found
+81QInGYE5qL.jpg,item_weight,40.0 kilogram,No match found
+71IFkS585yL.jpg,item_weight,28.0 ounce,No match found
+51sy+iqxn9L.jpg,voltage,"[85.0, 265.0] volt",No match found
+71YBYYA6qkL.jpg,item_weight,4.99 ounce,No match found
+51IYNh9x+uL.jpg,item_weight,10.0 gram,No match found
+61AyXeb65fL.jpg,item_weight,400.0 gram,No match found
+61nd1+lAgrL.jpg,item_weight,10.0 kilogram,No match found
+61etA3xLJxL.jpg,voltage,0.7222222222222222 volt,No match found
+81ARYRIdLXL.jpg,item_weight,22.0 gram,No match found
+51IWPRven8S.jpg,item_weight,100.0 gram,No match found
+51kBzwH58cS.jpg,item_weight,100.0 gram,No match found
+716ypiLKEwL.jpg,item_weight,776.58 gram,No match found
+616ZtSw0J3L.jpg,item_weight,1230.0 gram,No match found
+61NAYMNdb3L.jpg,item_weight,5.0 ton,No match found
+71C1ZrGmZ1S.jpg,voltage,20.0 volt,No match found
+51AaOKWND2L.jpg,item_weight,6.0 ton,No match found
+811aCltdV7L.jpg,item_weight,3200.0 gram,No match found
+71Y-M5vvwnL.jpg,item_weight,3200.0 gram,3200 Gram
+71MbFO7eiiL.jpg,item_weight,2.2223333344444455e+20 gram,No match found
+41j4SEPR77L.jpg,item_weight,890.0 gram,No match found
+71nOGmMwyeL.jpg,item_weight,16.2 gram,16.2g
+51gJCE5t7jL.jpg,item_weight,908.0 gram,No match found
+61pSklSecpL.jpg,item_weight,2.0 pound,No match found
+6155gfEynsL.jpg,item_weight,0.1 gram,No match found
+710gR9uaETL.jpg,item_weight,2.0 pound,No match found
+719Rm8oJ4UL.jpg,item_weight,12.0 ton,No match found
+41kEE28CpTL.jpg,item_weight,130.0 gram,No match found
+71rdOy8oVnL.jpg,item_weight,5.0 kilogram,No match found
+61WbA7AbfML.jpg,item_weight,100 gram,No match found
+716sMOgdG5L.jpg,item_weight,15 millilitre,No match found
+61g5jh6GTUL.jpg,item_weight,6.0 kilogram,No match found
+51s1J3rUFfL.jpg,item_weight,14.0 gram,No match found
+71pAmvVQPVL.jpg,item_weight,2.4 gram,No match found
+61w1xF7ODdL.jpg,voltage,3.7 volt,No match found
+61w1xF7ODdL.jpg,wattage,"[1.0, 2.0] watt",No match found
+716XovdGQsS.jpg,item_weight,0.0 gram,No match found
+71hirDMYDDL.jpg,wattage,1910.269 watt,No match found
+61ipNi9r6BL.jpg,item_weight,0.55 kilogram,0.55kg
+61dGIorsUgL.jpg,item_weight,0.55 kilogram,No match found
+51NobOLlTML.jpg,item_weight,5.0 kilogram,No match found
+51o6rsIo9eL.jpg,wattage,7.5 watt,No match found
+61iWpJCJ2rL.jpg,item_weight,50.0 kilogram,No match found
+51sNXh8pyLL.jpg,item_weight,12.4 gram,12.4g
+41uQ2PYOUXL.jpg,item_weight,90 gram,No match found
+41NOSe7Fk0L.jpg,item_weight,90 gram,No match found
+61yL6Soti5L.jpg,maximum_weight_recommendation,45 kilogram,45kg
+71Umlzg+r0L.jpg,item_weight,0.86 kilogram,0.86 KG
+61vHMEf44oL.jpg,item_weight,15.0 kilogram,No match found
+61SwpmplcUL.jpg,item_weight,50 gram,50.0 Gram
+31wd1yT5p2S.jpg,item_weight,134 milligram,134 M
+41Pn-+BZnPS.jpg,item_weight,134 milligram,134 M
+51KwNKzvLdL.jpg,item_weight,134 milligram,134 M
+31SY13wqlQL.jpg,item_weight,1.54 milligram,No match found
+61RskHhF+tL.jpg,maximum_weight_recommendation,150 kilogram,150kg
+71wcQj0Je9L.jpg,item_weight,455 gram,No match found
+71zuYw0Y05L.jpg,item_weight,455 gram,No match found
+91sAQQxkvgL.jpg,item_weight,5037823 gram,No match found
+91AHnn3iAHL.jpg,item_weight,150 gram,No match found
+71EHcFDPAvL.jpg,maximum_weight_recommendation,15 kilogram,15KG
+71-R3GQDmFL.jpg,maximum_weight_recommendation,330 pound,No match found
+61VjtfzmmtL.jpg,item_weight,5.0 gram,No match found
+61PIXf8JTOL.jpg,item_weight,24.0 pound,No match found
+81p+5vNHPUL.jpg,item_weight,10.1 ounce,No match found
+81kXCdMTzEL.jpg,item_weight,288.0 gram,No match found
+81dEnzM96OL.jpg,item_weight,288.0 gram,No match found
+713dZidOeOL.jpg,item_weight,8.0 ounce,No match found
+71vm5+Csf7L.jpg,item_weight,288.0 gram,No match found
+71+CbDxsEmL.jpg,item_weight,10.0 gram,No match found
+917LQdSu7IL.jpg,item_weight,50.0 pound,No match found
+71xMVFBw3uL.jpg,item_weight,4.5 kilogram,No match found
+61d1pOTbJdL.jpg,item_weight,55 gram,No match found
+71ClTU-qxeL.jpg,item_weight,2.14 ounce,No match found
+71Jh8zvLwrL.jpg,item_weight,60 gram,No match found
+71gCp3tvpVL.jpg,item_weight,0.3333333333333333 ounce,No match found
+71eLz0beioL.jpg,maximum_weight_recommendation,300 kilogram,No match found
+81ifpcGCE3L.jpg,item_weight,10 kilogram,No match found
+61PjmhugCjL.jpg,item_weight,10 kilogram,No match found
+71pkRodxZcL.jpg,item_weight,5 kilogram to 10 kilogram,No match found
+71nBqc06+RL.jpg,maximum_weight_recommendation,350 pound,No match found
+61g7bruJVXS.jpg,item_weight,23 gram,No match found
+51vDLJoqMWL.jpg,item_weight,20 gram,No match found
+61nKU7lM3FL.jpg,item_weight,"[20.0, 50.0] pound",No match found
+81YUrjLsTBL.jpg,item_weight,60.0 kilogram,No match found
+816+aHntUDL.jpg,item_volume,200.0 millilitre,No match found
+71hCyPCNifL.jpg,item_weight,30.0 gram,No match found
+91yBEPg9McL.jpg,item_weight,80.0 gram,No match found
+81wZ3djZr2L.jpg,item_weight,310.0 gram,310g
+81Brq772OZL.jpg,item_weight,30.0 gram,No match found
+81NjwclCjdL.jpg,item_weight,1.8 kilogram,1.80 Kg
+71Clzg7QEvS.jpg,item_weight,0.17 pound,No match found
+81SH40UZ+FL.jpg,item_weight,28.0 gram,No match found
+71bxShk8DNL.jpg,item_weight,1.75 pound,No match found
+5102DT+7-3L.jpg,item_weight,11.5 gram,11.5g
+61msoCUFbdL.jpg,item_weight,11.52 gram,11.52g
+81-8eLbIKgL.jpg,wattage,33.0 watt,No match found
+71Y-MJcL7xL.jpg,wattage,1080.0 watt,No match found
+71+JcrSYmPL.jpg,wattage,1080.0 watt,No match found
+81u9NFxuyIL.jpg,item_weight,4.0 ton,No match found
+61M4eGs+GCL.jpg,item_weight,1.0 ton,No match found
+61E+3rVsrUL.jpg,item_weight,320.0 gram,No match found
+61qDsVycgjL.jpg,item_weight,1.43 pound,1.43L
+81rOqV2HhsL.jpg,item_weight,0.8 kilogram,0.8KG
+818GuvfQEPL.jpg,item_weight,400.0 gram,No match found
+41a+zx9TUJL.jpg,item_weight,3.0 gram,No match found
+51afwZcAcIL.jpg,item_weight,105.0 gram,No match found
+51na9ql85HL.jpg,item_weight,7.35 ounce,7.35 Ounce
+71QHkPcNSLL.jpg,item_weight,220.0 gram,220G
+61V4VBuYf8L.jpg,item_weight,3.142 gram,03.12 gram
+71LzjKcQxxL.jpg,voltage,94.0 volt,No match found
+61VSV41acTL.jpg,item_weight,100.0 kilogram,No match found
+61R6R3e+c5L.jpg,item_weight,1.5 kilogram,1.5 kg
+51Gl473ThQL.jpg,item_weight,6.0 gram,No match found
+71T5kG6q7zL.jpg,item_weight,110.0 kilogram,No match found
+61cgSkpMUBL.jpg,item_weight,29.0 gram,No match found
+51xyd9ghQKL.jpg,item_weight,2.0 gram,No match found
+61vyje7wFRL.jpg,item_weight,0.66 pound,0.66L
+71Dd47cHsxL.jpg,wattage,50.0 watt,No match found
+61V9w8+BpIL.jpg,item_weight,36.0 gram,No match found
+719603AFzhL.jpg,item_weight,0.8 ton,No match found
+71qtRdlQqsL.jpg,item_weight,400.0 gram,No match found
+51ODi9-QapL.jpg,wattage,55.0 watt,No match found
+71jcWw9wdCL.jpg,item_weight,5.5 gram,No match found
+71edu5cngML.jpg,item_weight,24.6 gram,24.6g
+71yNlcwQnuL.jpg,item_weight,1.8 ounce,No match found
+71xANFJjeHL.jpg,item_weight,1.8 ounce,No match found
+71f2qjV2GfL.jpg,item_weight,2.5 gram,No match found
+61fpZBR7XlL.jpg,item_weight,14.7 gram,14.7g
+81uJ4g6SjtL.jpg,item_weight,300 gram,No match found
+81uKHGIjUHL.jpg,item_weight,300 gram,No match found
+31rCd+ccXHL.jpg,item_weight,300 gram,No match found
+81Xp1LviCCL.jpg,item_weight,1.5 ounce,1.5 ounce
+71Y0r-R9obL.jpg,item_weight,100 gram,No match found
+71+1feQ9OuL.jpg,item_weight,100 gram,100 g
+61qf984dXuL.jpg,item_weight,100 gram,No match found
+61OIDIEgWAS.jpg,item_weight,90 gram,No match found
+41LZv1WrfgL.jpg,item_weight,190 gram,No match found
+71yMJLfVyGL.jpg,item_weight,1200 milligram,No match found
+61rN2FsbrgL.jpg,maximum_weight_recommendation,120 kilogram,No match found
+61TQv+8PuFL.jpg,item_weight,180 gram,No match found
+61O2eMiggoL.jpg,maximum_weight_recommendation,10 pound,No match found
+61LfIueSzjL.jpg,item_weight,50.0 kilogram,No match found
+71-IU60x4vL.jpg,item_weight,5.0 milligram,No match found
+81TmbdCBCiL.jpg,item_weight,150.0 milligram,No match found
+6166wmxbehL.jpg,item_weight,1200.0 milligram,No match found
+81tkLdlEQPL.jpg,item_weight,1200.0 milligram,No match found
+81xB-5LIyOL.jpg,item_weight,1200.0 milligram,No match found
+61KJCRXHP0L.jpg,item_weight,1200.0 milligram,No match found
+711JfYTllSL.jpg,item_weight,1200.0 milligram,No match found
+619HJfF-twL.jpg,item_weight,5000.0 ton,No match found
+61wj40BBexL.jpg,item_weight,7.0 gram,No match found
+91TLeA32hSL.jpg,item_weight,220.0 gram,No match found
+911-Iki53ML.jpg,item_weight,220.0 gram,No match found
+91hw7jVyOPL.jpg,item_weight,220.0 gram,No match found
+61l2A8DOEYL.jpg,item_weight,77.0 pound,No match found
+81t3ekvL63L.jpg,item_weight,272.0 kilogram,No match found
+61-e0Gs+PXS.jpg,item_weight,8.5 gram,8.5g
+71EsZF5cLcL.jpg,item_weight,12.0 ounce,No match found
+71DeEJpldxL.jpg,item_weight,1.2 kilogram,No match found
+71oRjMk7YTL.jpg,item_weight,265.0 pound,No match found
+812lHgtjNlL.jpg,item_volume,250.0 millilitre,No match found
+61PoPEF8IfL.jpg,item_weight,230.0 gram,No match found
+81ad+rQ9pmL.jpg,item_weight,3.5 ounce,No match found
+71D74v7AkCL.jpg,item_weight,80 gram,No match found
+61bjHE7gZeL.jpg,item_weight,80 gram,No match found
+51EFpuTpqAL.jpg,item_weight,80 gram,No match found
+718WGo54sAL.jpg,item_weight,80 gram,No match found
+71rSe3fa7NL.jpg,item_weight,100 kilogram,100kg
+81O6vjFTf+L.jpg,item_weight,6 gram,No match found
+610XtvvYA0L.jpg,item_weight,40.0 gram,No match found
+61kEhxJTT7L.jpg,item_weight,2.2 gram,No match found
+61H8NdBhdSS.jpg,item_weight,1.0 gram,No match found
+618F0burMzL.jpg,item_weight,1.4 ounce,No match found
+61jJ4XwzEYL.jpg,item_weight,2.0 pound,No match found
+61L9O+gWaqL.jpg,item_weight,4.9 kilogram,4.9KG
+615BPuMrooL.jpg,item_weight,7.3 gram,7.3g
+71-6PZjwE5L.jpg,voltage,"[110.0, 120.0] volt",No match found
+81ody4lxMkL.jpg,item_weight,3.5 kilogram,5 Kg
+71KkxA1Z2vL.jpg,item_weight,22.0 pound,No match found
+811VMjLYuQL.jpg,item_weight,85.0 gram,No match found
+71bt+S-SaHL.jpg,item_weight,85.0 gram,No match found
+71IK6x5-S8L.jpg,voltage,20.0 volt,No match found
+61s9rbfCXnL.jpg,item_weight,255.0 gram,No match found
+71SRzplpawL.jpg,item_weight,100.0 milligram,100m
+71YyC548YqL.jpg,item_weight,100.0 milligram,100 M
+816wP7nXjEL.jpg,item_weight,3.0 ounce,No match found
+81uLneSwWDL.jpg,item_weight,100.0 milligram,100M
+61UF9NlOkiL.jpg,voltage,36.0 volt,No match found
+61-6cwDybCL.jpg,voltage,36.0 volt,No match found
+61-6cwDybCL.jpg,item_weight,23.2 kilogram,23.2kg
+51Dv4GjwyrL.jpg,item_weight,80.0 microgram,No match found
+71eRsrKFx+L.jpg,item_weight,1000.0 gram,No match found
+71D7x0W7pJL.jpg,voltage,12.0 volt,No match found
+713BCtO-THL.jpg,voltage,12.0 volt,No match found
+71ISU2WNAbL.jpg,voltage,12.0 volt,No match found
+71K3OgJvx+L.jpg,voltage,12.0 volt,No match found
+61gbNU1YarL.jpg,item_weight,925.0 gram,No match found
+61HMu9VpxmL.jpg,item_weight,105.0 gram,No match found
+71sHe5Le24L.jpg,item_weight,70.0 kilogram,No match found
+51HPucJBbWL.jpg,item_volume,150.0 millilitre,No match found
+71NVjhwU2RL.jpg,item_weight,25.4 gram,25.4g
+511y8Tg-TXL.jpg,item_weight,4.1 gram,4.1g
+8113fC1QTBL.jpg,item_weight,1.1 kilogram,1.1 kg
+71Z7K6Scj7L.jpg,item_weight,6.0 pound,No match found
+51QYXSkiGrL.jpg,item_weight,18.0 gram,No match found
+91OdLxE-zBL.jpg,item_weight,1100.0 gram,No match found
+61MXcGeULzL.jpg,item_weight,1000.0 milligram,No match found
+61CA640fcwL.jpg,item_weight,1000.0 milligram,1000M
+71oU7XjdM6L.jpg,item_weight,454.0 gram,No match found
+61ZCf8EgARL.jpg,item_weight,1.0 gram,No match found
+51vsjViwtMS.jpg,item_weight,374.0 gram,No match found
+812eiX+l-KS.jpg,item_weight,374.0 gram,No match found
+81kYHL-XOCS.jpg,item_weight,384.0 gram,No match found
+61SSk6TCZkL.jpg,wattage,24.0 watt,No match found
+51bDJ9E19wL.jpg,voltage,29.4 volt,No match found
+31R8lceebUL.jpg,item_weight,154.0 pound,No match found
+81lyRW0QHzL.jpg,item_weight,500.0 milligram,No match found
+81VawxOQr1L.jpg,item_weight,500.0 milligram,500 m
+618M03DWBqL.jpg,item_weight,10.2 kilogram,10.2kg
+71Qrv5Yzf1L.jpg,wattage,1080.0 horsepower,No match found
+51LHhpJ27eS.jpg,item_weight,"[16.0, 20.0] ounce",No match found
+51eRY-XOEoL.jpg,item_weight,3.0 gram,No match found
+71BLdsiHzkL.jpg,item_weight,900.0 milligram,No match found
+61+CWhlK68L.jpg,item_weight,400.0 milligram,No match found
+71AyK4SFwQL.jpg,item_weight,900.0 milligram,No match found
+71ANcSvXxzL.jpg,item_weight,900.0 milligram,0 m
+61b1wR6iNaL.jpg,wattage,60.0 watt,No match found
+51nnSLFTwGL.jpg,voltage,0.0 volt,No match found
+61ur5rWyPKL.jpg,voltage,0.0 volt,No match found
+71waeeyDIrL.jpg,item_weight,2.11 pound,No match found
+51JGQw2pXGL.jpg,item_weight,180.0 gram,No match found
+71mwK4c7MVL.jpg,item_weight,150.0 gram,No match found
+712fsJcOomL.jpg,item_weight,150.0 gram,No match found
+61TGHF7SKjL.jpg,item_weight,0.53 ounce,No match found
+81Vixhq18GL.jpg,item_weight,17.52 gram,No match found
+71r+AfPbzKL.jpg,item_weight,150.0 gram,No match found
+81J1epG36+L.jpg,item_weight,0.53 ounce,No match found
+71rqsF6+oHL.jpg,voltage,1403.0 volt,No match found
+71KHJ51FQ-L.jpg,item_weight,3.0 gram,No match found
+81GVmijhUkL.jpg,item_weight,108.0 gram,No match found
+81CUqF8tQ2L.jpg,item_weight,108.0 gram,No match found
+61un3wH6iRL.jpg,item_weight,1 kilogram,No match found
+61wTmBbESyL.jpg,item_weight,87 gram,No match found
